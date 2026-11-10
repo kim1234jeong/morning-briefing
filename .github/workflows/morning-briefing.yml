@@ -1,0 +1,33 @@
+name: Morning Briefing
+
+on:
+  schedule:
+    - cron: "0 22 * * *"   # UTC 22:00 = 한국시간 07:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python briefing.py
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ICS_URL: ${{ secrets.ICS_URL }}
+          PUBLISH_EVENTS: ${{ vars.PUBLISH_EVENTS }}
+      - name: Commit data.json
+        run: |
+          git config user.name "briefing-bot"
+          git config user.email "briefing-bot@users.noreply.github.com"
+          git add docs/data.json
+          git diff --cached --quiet || (git commit -m "update briefing data" && git push)
