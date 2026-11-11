@@ -1,4 +1,4 @@
-"""매일 아침 브리핑: 날씨 + 일정 + 뉴스 요약 -> 텔레그램 전송"""
+"""매일 아침 브리핑: 날씨 + 일정 + 뉴스 요약 -> 텔레그램 전송 및 웹 UI 연동"""
 import json
 import os
 from pathlib import Path
@@ -12,13 +12,12 @@ from urllib.parse import quote
 KST = ZoneInfo("Asia/Seoul")
 NOW = datetime.now(KST)
 
-# ---------- 설정 (필요하면 수정) ----------
+# ---------- 설정 ----------
 LAT = float(os.getenv("LAT", "37.20"))    # 기본값: 화성시 부근
 LON = float(os.getenv("LON", "126.83"))
 PLACE = os.getenv("PLACE", "화성")
 
 # 키워드별 구글 뉴스 검색 (이름: (검색어, 최대 기사 수))
-# when:1d = 최근 24시간 기사만. 검색어는 자유롭게 추가/수정하세요.
 NEWS_QUERIES = {
     "남양넥스모": ("남양넥스모", 8),
     "자동차 부품": ("자동차 부품 OR 자동차부품 OR 부품사", 6),
@@ -49,8 +48,10 @@ def get_weather() -> str:
         d = r.json()
         cur, day = d["current"], d["daily"]
         desc = WMO.get(day["weather_code"][0], "정보 없음")
-        return (f"{PLACE} 현재 {cur['temperature_2m']:.0f}°C · 오늘 {desc}\n"
-                f"최저 {day['temperature_2m_min'][0]:.0f}° / 최고 {day['temperature_2m_max'][0]:.0f}° · "
+        
+        # UI 카드 디자인에 어울리도록 텍스트 간격 최적화
+        return (f"{PLACE} 현재 {cur['temperature_2m']:.1f}°C · 오늘 {desc}\n"
+                f"최저 {day['temperature_2m_min'][0]:.0f}° / 최고 {day['temperature_2m_max'][0]:.0f}°\n"
                 f"강수확률 {day['precipitation_probability_max'][0]}%")
     except Exception as e:
         return f"날씨 정보를 가져오지 못했어요 ({e})"
@@ -92,7 +93,7 @@ def get_news() -> dict:
         try:
             for e in feedparser.parse(url).entries:
                 title = e.get("title", "").strip()
-                key = title.rsplit(" - ", 1)[0]  # 언론사명 제외한 제목으로 중복 판별
+                key = title.rsplit(" - ", 1)[0]
                 if not title or key in seen:
                     continue
                 seen.add(key)
@@ -113,7 +114,7 @@ def summarize_news(news: dict) -> str:
     if not raw.strip():
         return "뉴스를 가져오지 못했어요."
 
-    if not os.getenv("ANTHROPIC_API_KEY"):  # API 키가 없으면 헤드라인만 전달
+    if not os.getenv("ANTHROPIC_API_KEY"):
         return "\n".join(
             f"[{src}]\n" + "\n".join(f"• {it['title']}" for it in items)
             for src, items in news.items() if items
@@ -122,7 +123,7 @@ def summarize_news(news: dict) -> str:
     import anthropic
     client = anthropic.Anthropic()
     msg = client.messages.create(
-        model=os.getenv("CLAUDE_MODEL", "claude-haiku-5-5"),
+        model=os.getenv("CLAUDE_MODEL", "claude-3-5-haiku-latest"), # 공식 최신 모델명으로 수정
         max_tokens=1000,
         messages=[{
             "role": "user",
@@ -132,7 +133,8 @@ def summarize_news(news: dict) -> str:
                 "1) '[남양넥스모]' 섹션을 맨 위에 두고, 관련 기사가 없으면 '오늘 관련 기사 없음'이라고 한 줄만 쓰기\n"
                 "2) 그다음 '[자동차 부품]', '[현대차·기아]' 섹션 순서로, 중복 기사는 하나로 묶고 "
                 "중요한 순서대로 섹션당 최대 4개를 '• '로 시작하는 한 줄 요약으로 쓰기\n"
-                "3) 제목에 없는 내용은 추측하지 말고 사실만 쓰기. 다른 설명이나 인사말은 붙이지 않기.\n\n" + raw
+                "3) 웹 UI에 노출되므로 마크다운 기호(**, # 등)를 절대 사용하지 말고 순수 텍스트로만 작성할 것.\n"
+                "4) 제목에 없는 내용은 추측하지 말고 사실만 쓰기. 다른 설명이나 인사말은 붙이지 않기.\n\n" + raw
             ),
         }],
     )
@@ -140,7 +142,9 @@ def summarize_news(news: dict) -> str:
 
 
 def send_telegram(text: str) -> None:
-    token, chat_id = os.environ["TELEGRAM_TOKEN"], os.environ["TELEGRAM_CHAT_ID"]
+    token, chat_id = os.environ.get("TELEGRAM_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
+    if not token or not chat_id:
+        return
     r = requests.post(
         f"https://api.telegram.org/bot{token}/sendMessage",
         json={"chat_id": chat_id, "text": text[:4000],
@@ -159,7 +163,6 @@ def write_data(weather: str, events: str, summary: str, news: dict) -> None:
     data = {
         "updated": NOW.isoformat(timespec="minutes"),
         "weather": weather,
-        # 공개 저장소에 올라가므로 일정은 PUBLISH_EVENTS=1 일 때만 포함
         "events": events if os.getenv("PUBLISH_EVENTS") == "1" else None,
         "summary": summary,
         "news": {
@@ -178,16 +181,19 @@ def main() -> None:
     weather, events = get_weather(), get_events()
     news = get_news()
     summary = summarize_news(news)
+    
+    # 웹페이지용 json 파일 생성
     write_data(weather, events, summary, news)
 
+    # 텔레그램 메시지 구성 및 전송
     message = (
         f"☀️ {NOW:%Y.%m.%d}({weekday}) 아침 브리핑\n\n"
         f"🌤 날씨\n{weather}\n\n📅 오늘 일정\n{events}\n\n📰 주요 뉴스\n{summary}"
     )
     if os.getenv("DRY_RUN"):
         print(message)
-    elif os.getenv("TELEGRAM_TOKEN") and os.getenv("TELEGRAM_CHAT_ID"):
-        send_telegram(message)  # 텔레그램을 안 쓰면 이 단계는 건너뜀
+    else:
+        send_telegram(message)
 
 
 if __name__ == "__main__":
