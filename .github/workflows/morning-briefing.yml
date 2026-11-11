@@ -2,7 +2,7 @@ name: Morning Briefing
 
 on:
   schedule:
-    - cron: "0 22 * * *"   # UTC 22:00 = 한국시간 07:00
+    - cron: "17 22 * * *"   # UTC 22:17 = 한국시간 07:17 (정각 실행 지연 방지)
   workflow_dispatch:
 
 permissions:
