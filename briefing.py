@@ -135,12 +135,12 @@ def get_hot_deals() -> str:
 
 
 def get_google_trends() -> str:
-    """구글 대한민국 일별 트렌드 검색어 TOP 3 (링크 포함)"""
+    """구글 대한민국 일별 트렌드 검색어 TOP 3 (링크 제거)"""
     url = "https://trends.google.com/trending/rss?geo=KR"
     lines = []
     try:
         for idx, entry in enumerate(feedparser.parse(url).entries[:3], 1):
-            lines.append(f"{idx}. {entry.title}\n   {entry.link}")
+            lines.append(f"{idx}. {entry.title}")
     except Exception:
         pass
     return "\n".join(lines) if lines else "트렌드를 가져오지 못했어요."
@@ -195,7 +195,7 @@ def summarize_news(news: dict) -> str:
                     "아래는 최근 24시간 동안의 관련 뉴스 헤드라인입니다(남양넥스모, 자동차 부품, 현대차, 기아). "
                     "다음 형식으로 한국어로 정리해 주세요.\n"
                     "1) '[남양넥스모]' 섹션을 맨 위에 두고, 관련 기사가 없으면 '오늘 관련 기사 없음'이라고 한 줄만 쓰기\n"
-                    "2) 그다음 '[자동차 부품]', '[현대차·기아]' 섹션 순서로, 각 섹션별로 가장 중요한 기사를 딱 1개씩만 골라서 '• '로 시작하는 한 줄 요약으로 쓰기 (반드시 섹션당 1개만 작성)\n"
+                    "2) 그다음 '[자동차 부품]', '[현대차·기아]' 섹션을 순서대로 작성하되, 각 섹션별로 가장 핵심적인 기사를 **오직 1개씩만** 골라서 '• '로 시작하는 한 줄 요약으로 작성하기 (절대로 섹션당 2개 이상 작성하지 말 것)\n"
                     "3) 웹 UI에 노출되므로 마크다운 기호(**, # 등)를 절대 사용하지 말고 순수 텍스트로만 작성할 것.\n"
                     "4) 제목에 없는 내용은 추측하지 말고 사실만 쓰기. 다른 설명이나 인사말은 붙이지 않기.\n\n" + raw
                 ),
