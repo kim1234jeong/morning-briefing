@@ -177,9 +177,10 @@ def summarize_news(news: dict) -> str:
     if not raw.strip():
         return "뉴스를 가져오지 못했어요."
 
+    # 변경점: 클로드 API 키가 없어서 텍스트만 뽑아올 때도 무조건 각 섹션당 1개만 노출
     if not os.getenv("ANTHROPIC_API_KEY"):
         return "\n".join(
-            f"[{src}]\n" + "\n".join(f"• {it['title']}" for it in items)
+            f"[{src}]\n• {items[0]['title']}"
             for src, items in news.items() if items
         )
 
