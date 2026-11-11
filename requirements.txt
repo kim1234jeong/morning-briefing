@@ -3,3 +3,4 @@ feedparser
 anthropic
 icalendar
 recurring-ical-events
+yfinance
