@@ -84,16 +84,29 @@ def get_events() -> str:
 
 
 def get_market_data() -> str:
-    """미국 마감 증시 및 환율"""
-    tickers = {"환율": "USDKRW=X", "VOO": "VOO", "QQQ": "QQQ", "TQQQ": "TQQQ", "SOXL": "SOXL", "SCHD": "SCHD"}
+    """미국 마감 증시 및 환율 (원화 환산 포함)"""
+    tickers = {"VOO": "VOO", "QQQ": "QQQ", "TQQQ": "TQQQ", "SOXL": "SOXL", "SCHD": "SCHD"}
     lines = []
+    exchange_rate = None
+    
+    # 1. 환율 먼저 조회
+    try:
+        krw_data = yf.Ticker("USDKRW=X").history(period="1d")
+        if not krw_data.empty:
+            exchange_rate = krw_data['Close'].iloc[-1]
+            lines.append(f"• 환율: {exchange_rate:,.1f}원")
+    except Exception:
+        pass
+
+    # 2. ETF 조회 및 환율 기반 원화 환산
     for name, ticker in tickers.items():
         try:
             data = yf.Ticker(ticker).history(period="1d")
             if not data.empty:
                 close = data['Close'].iloc[-1]
-                if name == "환율":
-                    lines.append(f"• 환율: {close:,.1f}원")
+                if exchange_rate:
+                    krw_price = close * exchange_rate
+                    lines.append(f"• {name}: ${close:,.2f} (약 {krw_price:,.0f}원)")
                 else:
                     lines.append(f"• {name}: ${close:,.2f}")
         except Exception:
@@ -102,25 +115,32 @@ def get_market_data() -> str:
 
 
 def get_hot_deals() -> str:
-    """알구몬 실시간 인기 핫딜 TOP 3"""
-    url = "https://algumon.com/api/v1/hotdeals/rss"
+    """뽐뿌 핫딜 게시판 실시간 최신글 TOP 3 (차단 우회)"""
+    url = "https://www.ppomppu.co.kr/rss.php?id=ppomppu"
     lines = []
     try:
-        for entry in feedparser.parse(url).entries[:3]:
-            clean_title = entry.title.replace("<![CDATA[", "").replace("]]>", "").strip()
-            lines.append(f"• {clean_title}")
-    except Exception:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        }
+        resp = requests.get(url, headers=headers, timeout=10)
+        feed = feedparser.parse(resp.content)
+        
+        for entry in feed.entries[:3]:
+            title = entry.title.strip()
+            lines.append(f"• {title}")
+    except Exception as e:
+        print(f"핫딜 에러: {e}") 
         pass
     return "\n".join(lines) if lines else "핫딜을 가져오지 못했어요."
 
 
 def get_google_trends() -> str:
-    """구글 대한민국 일별 트렌드 검색어 TOP 3"""
+    """구글 대한민국 일별 트렌드 검색어 TOP 3 (링크 포함)"""
     url = "https://trends.google.com/trending/rss?geo=KR"
     lines = []
     try:
         for idx, entry in enumerate(feedparser.parse(url).entries[:3], 1):
-            lines.append(f"{idx}. {entry.title}")
+            lines.append(f"{idx}. {entry.title}\n   {entry.link}")
     except Exception:
         pass
     return "\n".join(lines) if lines else "트렌드를 가져오지 못했어요."
@@ -175,8 +195,7 @@ def summarize_news(news: dict) -> str:
                     "아래는 최근 24시간 동안의 관련 뉴스 헤드라인입니다(남양넥스모, 자동차 부품, 현대차, 기아). "
                     "다음 형식으로 한국어로 정리해 주세요.\n"
                     "1) '[남양넥스모]' 섹션을 맨 위에 두고, 관련 기사가 없으면 '오늘 관련 기사 없음'이라고 한 줄만 쓰기\n"
-                    "2) 그다음 '[자동차 부품]', '[현대차·기아]' 섹션 순서로, 중복 기사는 하나로 묶고 "
-                    "중요한 순서대로 섹션당 최대 4개를 '• '로 시작하는 한 줄 요약으로 쓰기\n"
+                    "2) 그다음 '[자동차 부품]', '[현대차·기아]' 섹션 순서로, 각 섹션별로 가장 중요한 기사를 딱 1개씩만 골라서 '• '로 시작하는 한 줄 요약으로 쓰기 (반드시 섹션당 1개만 작성)\n"
                     "3) 웹 UI에 노출되므로 마크다운 기호(**, # 등)를 절대 사용하지 말고 순수 텍스트로만 작성할 것.\n"
                     "4) 제목에 없는 내용은 추측하지 말고 사실만 쓰기. 다른 설명이나 인사말은 붙이지 않기.\n\n" + raw
                 ),
