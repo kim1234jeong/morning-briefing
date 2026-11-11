@@ -15,7 +15,7 @@
   --card: #ffffff;
   --tx: #0f172a;
   --sub: #64748b;
-  --ac: #0f172a;       /* 라이트 모드 활성 탭 (고대비 블랙) */
+  --ac: #0f172a;
   --ac-tx: #ffffff;
   --bd: #e2e8f0;
   --shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.05);
@@ -28,7 +28,7 @@
     --card: #18181b;
     --tx: #fafafa;
     --sub: #a1a1aa;
-    --ac: #fafafa;       /* 다크 모드 활성 탭 (고대비 화이트) */
+    --ac: #fafafa;
     --ac-tx: #09090b;
     --bd: #27272a;
     --shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.4);
@@ -107,6 +107,21 @@ li .sub { display: inline-block; font-size: 0.8rem; margin-top: 2px; }
     <h2>📅 오늘 일정</h2>
     <div class="pre" id="events"></div>
   </section>
+
+  <section class="card">
+    <h2>📈 미국 증시 & 환율</h2>
+    <div class="pre" id="market">-</div>
+  </section>
+
+  <section class="card">
+    <h2>🔥 실시간 핫딜</h2>
+    <div class="pre" id="hotdeals">-</div>
+  </section>
+
+  <section class="card">
+    <h2>🔍 일별 인기 검색어</h2>
+    <div class="pre" id="trends">-</div>
+  </section>
   
   <section class="card">
     <h2>📰 뉴스 요약</h2>
@@ -160,9 +175,16 @@ async function load() {
     const d = await r.json();
     const dt = new Date(d.updated);
     $("upd").textContent = "업데이트 " + dt.toLocaleString("ko-KR", { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit" });
-    $("weather").textContent = d.weather;
-    $("summary").textContent = d.summary;
-    $("evCard").hidden = !d.events; if (d.events) $("events").textContent = d.events;
+    
+    $("weather").textContent = d.weather || "-";
+    $("market").textContent = d.market || "데이터 없음";
+    $("hotdeals").textContent = d.hotdeals || "데이터 없음";
+    $("trends").textContent = d.trends || "데이터 없음";
+    $("summary").textContent = d.summary || "-";
+    
+    $("evCard").hidden = !d.events; 
+    if (d.events) $("events").textContent = d.events;
+    
     news = d.news || {};
     if (!(cur in news)) cur = Object.keys(news)[0];
     renderTabs(); renderList();
