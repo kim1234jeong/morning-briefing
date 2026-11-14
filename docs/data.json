@@ -1,107 +1,107 @@
 {
- "updated": "2026-11-13T11:38+09:00",
- "weather": "안산 현재 10.9°C · 오늘 흐림\n최저 8° / 최고 16°\n강수확률 57%",
+ "updated": "2026-11-14T11:27+09:00",
+ "weather": "날씨 정보를 가져오지 못했어요 (HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=15))",
  "events": null,
- "market": "• 환율: 1,332.5원\n• VOO: $696.00 (약 927,448원)\n• QQQ: $688.17 (약 917,014원)\n• TQQQ: $59.88 (약 79,792원)\n• SOXL: $65.53 (약 87,321원)\n• SCHD: $35.93 (약 47,878원)",
- "hotdeals": "• [옥션] 나주배 가정용 5kg 8~10과 (11,720원/무료)\n• [네이버] 26년 상등급쌀 신동진 쌀 20kg (51,900원) (무료)\n• [함평천지몰] 26년국산 100% 햇 고춧가루 1kg (15,000원/무료)",
- "trends": "1. 진학사\n2. 공군사관학교\n3. 평가",
- "summary": "[자동차 부품]\n• 현대성우쏠라이트, 美 자동차 부품 전시회 ‘AAPEX 2026’ 성료 - 서울경제TV\n[현대차]\n• 현대자동차, 미래모빌리티학교 참가 모집 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group\n[기아]\n• 기아, 2조6천억원 투자해 인도 제2공장 건설…2030년 생산 시작 - 연합뉴스",
+ "market": "• 환율: 1,333.8원\n• VOO: $693.38 (약 924,816원)\n• QQQ: $679.89 (약 906,824원)\n• TQQQ: $57.68 (약 76,932원)\n• SOXL: $58.32 (약 77,786원)\n• SCHD: $36.12 (약 48,176원)",
+ "hotdeals": "• [29CM] 아디다스 3스트라이프 루스 핏 다운 재킷 (87,890원/무료)\n• [네이버] 옥수수수염차 1.85L 6개 (5,900원/무료)\n• [네이버] 수입 냉동삼겹살 1kg (9,980원/네멤무료)",
+ "trends": "1. 광진구\n2. 기내식\n3. 고용노동부",
+ "summary": "[자동차 부품]\n• 레이싱카 부품이 119만원짜리 테이블로…車 굿즈도 명품 시대 - 에너지경제신문\n[현대차]\n• \"현대차, 호주 1조원 공장 추진했다가 무산?\"…현지 유력 정치인 폭로 - 더구루\n[기아]\n• 현대자동차·기아, ‘2026 바디감성 콘퍼런스’ 개최 | HMG TV | 현대자동차그룹 - Hyundai Motor Group",
  "news": {
   "남양넥스모": [],
   "자동차 부품": [
    {
-    "title": "현대성우쏠라이트, 美 자동차 부품 전시회 ‘AAPEX 2026’ 성료",
-    "source": "서울경제TV",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yaE9qQ0xPOUo4RDAzV0ZfRV9SZVF6eUt0WVhKZWZtVlZqYWQxSF9WdzFKSkgtN3l5WXJLM2EzN2NFcHVfVHA2UVh4OGxmTnJVQUZPQTdBb0RaVTZTZU1MU0NkazE?oc=5"
+    "title": "레이싱카 부품이 119만원짜리 테이블로…車 굿즈도 명품 시대",
+    "source": "에너지경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRS3I5MGhHN1BEbHllQm8wblhnTjBiTHh0SnBVTWQ1NFoxYVYxVGMwSHI5YkZxemx1eEhmR3g4ZTJkX3RxMUpRWFZaOEpfcHpTTjdYWk1ac0psWVJTNWFGS0g0bw?oc=5"
    },
    {
-    "title": "LG유플러스, 유럽 자동차 데이터망 연계 추진···국내 부품사 지원",
-    "source": "이뉴스투데이",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vai12WkdjZEVCX2hnV0lwZWFfRGpJc0hsUWJfWE1YX0EwZkdOU1hTbi0wZTA5LTVPWTJobXZlT09zQlpENnI3cDRzMHpuSVFoYkhITUNWTVc3VzJkb0xrN21uUl9aQ2JmMEFjcjdUd1PSAXRBVV95cUxONldKYS13dGNWZTZwQlhVaFdCSWc0TVR6ZmtobDJGcGVMMElfZ3FoNU53OEFjRHU5YXZaTFg0N1hVR1NsUV9TVE5YNFJqNUN0eGZkWkxoUzdYSlRUdE9LYnFCS1dYREVmcExjbVdZT3BSaTdGUw?oc=5"
+    "title": "한자연, 파라과이 자동차부품 TASK센터 개소… 무쏘EV 20대·충전기 15대 인도",
+    "source": "기계신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PWnBoRVppNFlmWktVcUtTLVdHcnBJYnE5eklZTy1DRVR5OHhESDBKNDl1NEJwV2ZCOW13OWxHaVVJSVRPckxQcl9UVW9EdUkxdHBwd1hReHl3aGV0cTZPZTRKZG5pN3c?oc=5"
    },
    {
-    "title": "한자연, 파라과이에 자동차부품 기술 거점 ‘TASK센터’ 열어",
-    "source": "대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Eamhxc0dURGg3dFpIMjJhQkh3cWM2cE5qVVBfY2JuSlNrT2FtbW9Vd0VjekFHYk51X2hGOEpuVGxoSU1MOC1KemxvR1F6aW54TGJMbng5S0VtWVMycGFKTkRTLXJZbktTc1o2bEZCUDlMRThf?oc=5"
+    "title": "LG U+, 국내 자동차 부품사·해외 완성차 데이터 연계",
+    "source": "디일렉",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uWlBFNU5oWW1Uel81OTlFbmxhbjNLa1ZsOWlIb0d3azNjejg1NmRIN1JCc3JNYldxWURhSlFjSExGQTNPdm1MamJaaUJlNTVYb2RsQlRoMjJ0SFNfaGpEUk1halZtQQ?oc=5"
    },
    {
-    "title": "LGU+, 유럽 자동차 데이터망에 국내 부품사 잇는다…글로벌 수출길 지원",
-    "source": "와이드경제",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oblRGbkJDTWtSM1NSTFkzZzJpTnNhZXRUcDdhR0hTT2gwMnFhbHVhMFBLNlFQZ3VaR3NOaWZOeGVtU21BQ3dpY2xFQzJyMF9JdE5mZWRtTUJEbVhTaEd0aVR0bGs0UXFNQ1BQRg?oc=5"
+    "title": "수소차 폐차·재활용 시대 대비…잔류수소 제거·핵심부품 안전기술 개발 가속",
+    "source": "에너지데일리",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEdnByemdmS2RmRzFuU0ZQeGhreW5ldnl2bGRjdXREc3NBV1o2TEt0clI4OS0tdmxBeVlNRHNMZERKcWhzTUt5QUVaNVozTVdtMTllSkJEOF8wSUh0Z016T3JYTjRLNkJ6VmVVcGdCTDZHdw?oc=5"
    },
    {
-    "title": "혼다도 중국산 부품으로 방향 전환…일본 자동차 부품업계 비상",
-    "source": "인터내셔널포커스",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oUU9ZUEppWjR3clQ1UTdhbzFPNGdvOENQd1RkTWlkNGMxRnFoV2pDSl91dEtyRGZlVXVPaXVmUlltSXgzTzFGVjJZOVEyZzgxVFdNZTRB?oc=5"
+    "title": "자동차부품 테마, 전동화·로봇 신사업 기대에 강세…부품사 글로벌 경쟁력 부각",
+    "source": "핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ENkI2UHJYeVJYbWtPSGViOWtBTjAxY1BEVk56aXNUV0ticTgwMjRuNXdoQ3JZQ1JPU0doQUJfOG1heFljeWZvamFRdzRaaFVNMDRUbzVIaENialhhRHJacEs2QS03LWM4bVNSbkhSQmktTThuSWlz0gF3QVVfeXFMT0Q2QjZQclh5Ulhta09IZWI5a0FOMDFjUERWTnppc1RXS2JxODAyNG41d2hDcllDUk9TR2hBQl84bWF4WWN5Zm9qYVF3NFpoVU0wNFRvNUhoQ2JqWGFEclpwSzZBLTctYzhtU1JuSFJCaS1NOG5JaXM?oc=5"
    },
    {
-    "title": "전북특별자치도, 자동차 대체부품산업 활성화 위한 전북특별법 특례 발굴 나서",
-    "source": "케이에스피뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5MRGFxeGZocUQtTWFBM04zZ2RpUFM4Y3dRd1RfR2ZWQWh0YnVFMjkySkxBbnVfeV93T1VQbkx2WUpIRVVSU0E?oc=5"
+    "title": "현대자동차, ‘미래모빌리티학교’ 참가 학교 모집",
+    "source": "교통뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaV3VmR29qeGVpNlVlaDRDY0lfMDhjTWFZaU9ubHhrZ3NFMG5NZWN0RkNzcGRhSV9keHFhaUpvblBSZzBjNjJzTUpORy1fSlRfMTlYOTZVQURjRldCdlhqcDctRERiV3dIU3dtbg?oc=5"
    }
   ],
   "현대차": [
    {
-    "title": "현대자동차, 미래모빌리티학교 참가 모집 | 뉴스 | 현대자동차그룹",
-    "source": "Hyundai Motor Group",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHhHY0dUd28tQkNzTy1FMDJ4WGFwdzVfR3NuQ2hRNFhobE5KM2ZWVHVTOG9UNk9qSDJFN0dRMFNqQjRVQjM5eS1HSFVaWlV6dXU3aWw3RTAtUU5SVk9uVmROa2Q0ZkY4VUtiRjlpWk5HYVFQa1hNUEJRbWRiYXVvNjdldmhZQWVXYnMzVEdORTl2aUtzX2ZMZUdhVE5uXzJFTjdpNTVn?oc=5"
+    "title": "\"현대차, 호주 1조원 공장 추진했다가 무산?\"…현지 유력 정치인 폭로",
+    "source": "더구루",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TbHVpbmRxWF9fUzhqa291RVFFVWFwNjlyelRsekVkaE1QMEs4M0RsVVZvbUpHNkpqa1QwQ0Y3VXlBOUhqb2J5MG15LXdsZV9qOWQ0NUtCT2hQR2Vfc0E?oc=5"
    },
    {
-    "title": "현대차, 국내 자율주행 생태계 키운다…쏘카와 맞손",
-    "source": "연합인포맥스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9feXRrbk9SajF5OGttTGlDV0QyTTNhTzJRNll0dTdLMGJPSHJpRXNCb0xDSVZPNlVlX0lCdDU5TGJaWGx5ZVh6TUI2dm13YVRwazk5MmhlUVBUSFRoM05rWnhpZVlGRTAxNUw4MFl4OFY?oc=5"
-   },
-   {
-    "title": "현대차·쏘카, 자율주행 전용 차량 개발 맞손…무인 호출 시장 정조준",
+    "title": "[위클리 PICK 3] 삼성-현대차그룹 '기술 동맹' 부터 젠슨 황 엔비디아 CEO 사임까지",
     "source": "오피니언뉴스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jX1BiOHI4aERNVVNLS2VfUk9pUkJ5X2p3Vzl0OGIxX0NXV09HZFNiUkxYN29aQm5Kc2I2NnEwWnlKeXNrM1JwY1MxMmFPRU9TbHlFOXFCNHhoR1ROOVh4clA2NURsOUJkNTNiYVoxNGY?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RS2xhbG9GMFItYmFTTEFOdEFucGNuN1gyYlFNWDB1dXRMQk84YWFmMmtTRzJpWEhtMWEwTjdUc0ZvQ1dhNkNRUFVvWTNlYXBiZHVVa0tSVlNvdXZRMFA4QTB6a2IwQzAzQ0FKZ2hzVnZjdw?oc=5"
    },
    {
-    "title": "현대차·기아·벤츠·BMW 등 전기차 13종 모인 성수동",
-    "source": "지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRzhLT1E3U3lmN2ZjeW5mQS1VMVQ3X0VfY3c0eElWcGFqR1ltSWswMllVQlRRdHNBNmZlRXFEOWM3OEI3b3ByM1pBRGxBcC0zTlk1c1hn?oc=5"
+    "title": "피아트 아르고, 브라질 승용차 시장서 현대차 제치고 1위 탈환",
+    "source": "글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0RqVXJjbUYzOFd5eXlaSXZkOFR2eDZLa3c5c1F4SE1sSGxRWXduU3h2b1hpTTY4alN0R0ViaXc5bEtQRDdISlMxU2dLNmhIYWxxTXVlY3NIUTc0M04wZy0xajNQMk1fbjJjUVhUSGp3aWtkQndGYUdzWWdiX1RlS0d6Rk5IZ2RM?oc=5"
    },
    {
-    "title": "현대차, 쏘카·에이펙스모빌리티와 자율주행 생태계 위한 업무협약",
-    "source": "한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kOXFFQlJKWkVTd0QyQ3VkLUkxaE9RNjBkUXNkam9qV3VqdnNnLTZNMHdsblQtQ0Y3YWlvdS02WjNaajF6MGYzNDZCT1FsUmVVYkh6bkVaNUZjZw?oc=5"
+    "title": "KT, 본업 저평가에 매수 의견-현대차증권 - 머니투데이",
+    "source": "머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BdVdneVNOMVdUb0p3aGNHbnNDbnp1U2hvaHFVS2Vvd3lIcFYxTGEzMWhKb1FjQUM2QjNjbDlFLUNrN0JNYWN6am1telJyUUJBWWlPN3UtM2JpNEVsdVVZc0I3S3F3Qlh40gFuQVVfeXFMUEtRS2lMNWRXZ1lZTkM4c2VIbFcwRmZja0dUa1BKbkRoMlF4d0ZOczhXVFpFV3JvbTl6VWFTUGRQeDk4Z0RnZ0gtcXlLcGZQMUtIQUVHSFN3Uy1aVFd3NGhWYkUtRldmRmhleTBmd0E?oc=5"
    },
    {
-    "title": "엔비디아 리스크에 현대차도 긴장…'자율주행 투트랙' 시험대",
-    "source": "비즈워치",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EdmZVc3liVVVNal93eWY0SkFfSlZtbS1GTzRIQTAwSDJBbU50Ri1iMG9TTDNjS2NwQ1B0RHNaaXJzYkNEVkRFbENKMGlGV2dzclpOVk5oYjlEQlBXVkpJVWFJQ2k4RmlxR2tabw?oc=5"
+    "title": "[사이언스영상] 로봇도 롤러스케이트를? 바퀴로 달리는 휴머노이드",
+    "source": "DongA Science",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mU3NzR09ZTlFtWTRiZzhiemZ6U1pfUlJONElBQmN2MHpTbWJDU2loWUtFRDRFYkVnNXY3LUtFbUV3M2xkQWNBUjhSNWZjLTloZktJUw?oc=5"
+   },
+   {
+    "title": "변수 생긴 ‘깐부 동맹’…현대차 자율주행도 영향 우려",
+    "source": "중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02TEcwMHVzNUk1QTVTRGV1SlJDUWNXUnBmYjFWR2lYbm5rbG5wa29wanlMbkdXVFR5VWpiYzZXU0kwYVNnTGdNSlFZN2x6VDhLN25yZlhn?oc=5"
    }
   ],
   "기아": [
    {
-    "title": "기아, 2조6천억원 투자해 인도 제2공장 건설…2030년 생산 시작",
-    "source": "연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oZFB2RGJLVGRHdFVpTnRmODRRYjc2Y1BQdnZuUmlvbEFyTVVqZkFydmVDVXdhS0lMZG9vbF9FM1Y2bEJ0dDJOOTNxT2ZSdk8ydWlleV9wVmdtTWPSAWBBVV95cUxQVFNpX2I4VndIUkJxTkh5X05qWWFFMEFPb2hJNG1iVkVNR3hDOHhNR29obWRJR2ZsWFBBam1TdGZUSGowVTViS29GdGdJWjJQemtoakdxMExVZkpMUjV6eWI?oc=5"
+    "title": "현대자동차·기아, ‘2026 바디감성 콘퍼런스’ 개최 | HMG TV | 현대자동차그룹",
+    "source": "Hyundai Motor Group",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2FoRnBHN21RNm1oNWlvLUlSb2wyUzItMEtNRURRQzBtSWZVTUFhNHVVMkVfZVJnMmRISGNKRDlwMWxiY2xKNllQb3ptcktSUU92bXQxMTZ1amowbTctR1M1TEVxMk1JdnkxZXEwRkU2R2RSdnQ0Y1JaWWRiYmMwNmVkVXFVTHhBU1pEbHJ0U0RUZndPWEZmVHVJaGZCWWM?oc=5"
    },
    {
-    "title": "기아, 인도에 2.6조원 투자해 제2공장 건설…연 63만대 생산체제 구축",
-    "source": "헤럴드경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10aC01VGZYdjBmV2I3VHJhYk9SeEIxUWtDN0NSRzVHdEJWRGJXb1ZaclBMT3hPSTgzS3B0ZVpNODI0T1phWG9zNkMyQjBEYjBsYXluWENR?oc=5"
+    "title": "기아, 인도에 2조6000억원 투자해 2공장 건설",
+    "source": "전자신문",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWUXZSUkdyN1lTRGVjdlE4LUhRQ0t5czFEM3BJa0VUNXk5U05pa2RialpadElaNXQ2NlhmYXVHdUNTNE1aanNmbmtjajZpQQ?oc=5"
    },
    {
-    "title": "인도 자동차 시장의 성장, 현대차·기아에 새로운 기회가 될까",
-    "source": "다나와 자동차",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRSUl2ZWpNeWZiRm1JaXJGZk1lRk1aZnBmeVJCR1JqSmk2S25JbHFZOE9xMFE2N1RpVzgzT3JMYlhuTlM2RDdoLUltRzhkZ1JDSEtnOFlLWW1LTlRhM1RuMmpRSUJyTWIwNmc?oc=5"
+    "title": "기아, 독일 자동차 권위상서 비유럽 브랜드 최초 3관왕",
+    "source": "위클리피플 인물지식가이드저널",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GdWlzcWM5c0pYdnV6S21UYXJ3djFNaHhGOUgxZEt6VzJKT29HVW4xamJTXzAwMmFiUFZjMk5jaVVjZHppSXYtWXo3NEJ0MkpENUFXSHJCNjhQdw?oc=5"
    },
    {
-    "title": "로이터 \"기아 인도 자동차 공장 증설에 20억 달러 투자\", 연산 63만 대 목표",
-    "source": "비즈니스포스트",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84Q2l0UW4xOE1hRGxhZVJ5cmd5TXgwenNfaUw1bmN5eXBZRVdKUy1sR2Z1bE5vU085amFvSGR4R1pPRU5ZbmhrX3BmQTdZdUFoT0hkVnkwUnhkWHFSM3hmZFFhbjJ2QnZ5YkV4UUJHZnRuTEE?oc=5"
+    "title": "독일 심장부 뚫은 기아, 비유럽 브랜드 사상 첫 ‘골든 스티어링 휠’ 3관왕 쾌거",
+    "source": "한국공공정책신문",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5RbXg3WWx2X3RxRWFoOWhXR0lQZGlsS1BIZk5HS040NTF5ZXJXSzZiYmtxcUQ0MHpiLUU4bHZMVmpHSkk?oc=5"
    },
    {
-    "title": "유럽 공략 드라이브 中전기차, 현대차·기아 현지법인 출신 인재까지 노린다",
-    "source": "뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kTFJHUW13NTBRb0VmODY3Tzk5UTRoU24xUVcta2FKOW5IUjRMWDFDclVjTE1pM0RfTmRVMC1vNDdaV2VHNWRvTTlVd2U2bFFCUkVfOFhnb2JnclB3ME5kNDBUQ0xBcXVVWDNCdVdHTUpfTHhVejgwcNIBeEFVX3lxTE9kTFJHUW13NTBRb0VmODY3Tzk5UTRoU24xUVcta2FKOW5IUjRMWDFDclVjTE1pM0RfTmRVMC1vNDdaV2VHNWRvTTlVd2U2bFFCUkVfOFhnb2JnclB3ME5kNDBUQ0xBcXVVWDNCdVdHTUpfTHhVejgwcA?oc=5"
+    "title": "기아, 인도에 2.6조원 투자…2030년 연산 63만대 '제2공장' 짓는다",
+    "source": "뉴시안",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WX2F3TVhhWDhVSDdmdHhDcDJrb3hfM0NJVDJUY3dZNUUwZkJERWFOdjJGT2FKMkRJcTktR0ItR255UTFCaU5rRGRYYWRHejk5NENVYldhWkN4ZS0xbl91WEZrenBNYWVfcFZnOQ?oc=5"
    },
    {
-    "title": "기아, 2.7조 투입해 인도 아난타푸르에 2공장 건설 - 머니투데이",
-    "source": "머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jME5BcWptN2tRSFFJUGlBcUZlU01YX3dTNTdNR3FIVnZsdlFHbXVIaFBJM2puSFZtVVE0NEpKWHZLU1VzSF90anBIcXVQVVdwYUhDWXhhc0lBYW1lT05obU5HZzMzSktJSHJLcFBXd0cwUdIBckFVX3lxTE5jME5BcWptN2tRSFFJUGlBcUZlU01YX3dTNTdNR3FIVnZsdlFHbXVIaFBJM2puSFZtVVE0NEpKWHZLU1VzSF90anBIcXVQVVdwYUhDWXhhc0lBYW1lT05obU5HZzMzSktJSHJLcFBXd0cwUQ?oc=5"
+    "title": "광명7동 지역사회보장협의체, 기아차 소하지회 후원으로 따뜻한 겨울나기 지원",
+    "source": "경기탑뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sWUljZnBXN0t2ZUFCMDdaVFIyN3dycUtyU0w1aldjaHVJRWpXMUZtT3N2Q3NVajRGaGVOckVJVVl4NUZQLWxXSnNDd2hMOWhQQmZCc0tPWTJ4YTcxVHBmRg?oc=5"
    }
   ]
  }
