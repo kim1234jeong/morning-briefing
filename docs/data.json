@@ -1,107 +1,107 @@
 {
- "updated": "2026-11-16T11:08+09:00",
- "weather": "안산 현재 11.4°C · 오늘 흐림\n최저 6° / 최고 16°\n강수확률 0%",
+ "updated": "2026-11-17T13:29+09:00",
+ "weather": "날씨 정보를 가져오지 못했어요 (HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=15))",
  "events": null,
- "market": "• 환율: 1,334.5원\n• VOO: $693.38 (약 925,302원)\n• QQQ: $679.89 (약 907,300원)\n• TQQQ: $57.68 (약 76,973원)\n• SOXL: $58.32 (약 77,827원)\n• SCHD: $36.12 (약 48,201원)",
- "hotdeals": "• [네이버] 매일두유 99.9 플레인 저당두유 190ml 24팩 (13,600원/무료)\n• [네이버] 플렉스 슬림 에어숏 슬개골 무릎보호대 밴드형 (3,000원/무료배송)\n• [토스]스팔클생수/알참참구운계란/메가도스비타민C/바베큐순살닭다리/베스킨라빈스딸기우유",
- "trends": "1. 이현중\n2. 공모\n3. 박혜연",
- "summary": "[자동차 부품]\n• “유럽 車 부품사 76% 이익률 5% 못 넘겨… 혁신 R&D 예산 압박” - economychosun.com\n[현대차]\n• 현대자동차, 2026년 하반기 세이프티 컬처 위크 진행 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group\n[기아]\n• \"한국차, 설 자리가 없다\"…러시아 판매 전년 대비 58% 급감 - 더구루",
+ "market": "• 환율: 1,337.0원\n• VOO: $680.26 (약 909,494원)\n• QQQ: $661.75 (약 884,747원)\n• TQQQ: $53.03 (약 70,900원)\n• SOXL: $48.76 (약 65,191원)\n• SCHD: $35.86 (약 47,944원)",
+ "hotdeals": "• 11번가 무주 반딧불 신동진 단일품종 당일도정 26년 햅쌀 10kg 상등급 백미(27,640 무료배송)\n• [옥션] 그레인랩 든든한 21곡 미숫가루두유 190ml 40팩 (13,890원/무료배송)\n• [오늘의집]삼성 비스포크 김치냉장고 4도어 490L 1등급 (1,719,000원/무료)",
+ "trends": "1. 담보 대출\n2. 마이클 버리\n3. 면세점",
+ "summary": "[자동차 부품]\n• 계양전기, 현대자동차 자동차부품 공급업체 선정 - 디지털투데이\n[현대차]\n• 현대자동차그룹, 소방의 날 특집 다큐 Re:boot | HMG TV | 현대자동차그룹 - Hyundai Motor Group\n[기아]\n• 기아, Vision Journey 팀장·부서장 과정 성료 | HMG TV | 현대자동차그룹 - Hyundai Motor Group",
  "news": {
   "남양넥스모": [],
   "자동차 부품": [
    {
-    "title": "“유럽 車 부품사 76% 이익률 5% 못 넘겨… 혁신 R&D 예산 압박”",
-    "source": "economychosun.com",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IYkl2VEdNeUFyaVBrampYeUR5RUFXd05GVmxVUFA5NnEwa3JURmpaX1JrY3U0U09jaE02a1o3SWYtS3NIMEZxYW5Qd1hVVUY5Umx5VU53c2NRYVBMVEprTkhmdk02WmE2bHh2LUZVcE9xLVQ1Ql9nZnVVWTBPbFU?oc=5"
+    "title": "계양전기, 현대자동차 자동차부품 공급업체 선정",
+    "source": "디지털투데이",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GVFZTMnhva1h3WkdYMXV3anVuNU9mS3E1Vl9QNlEtLVd0R2M1Z05MZDBqMEIzVEVJbU5xWkt5dWFtZ0lJOGF6UW9YNjMyMGRTWkFJZzl3SVVHRmZjM2FTVEtLUTJpUWhXSVhzMVVKeTcyRGF0aGRZNUVYQQ?oc=5"
    },
    {
-    "title": "벤츠, 아프리카산 '수소로 만든 철'에 눈독…전기차 부품 시험",
-    "source": "스틸데일리",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4waWplLWJvQ0ZPb29zallFcUhpQnE0RWtBLVBSQ3BESnYwdXlDWW5GX2Y4ZHIxX19IWlV0SjM1SlNvSk1EUlFWMmFpTnFIeUxRRnJhb1F0NURQRGpfU2puM0cwQUtXZUlMM3k0LWl0TDQtUG9w0gF0QVVfeXFMTjBpamUtYm9DRk9vb3NqWUVxSGlCcTRFa0EtUFJDcERKdjB1eUNZbkZfZjhkcjFfX0haVXRKMzVKU29KTURSUVYyYWlOcUh5TFFGcmFvUXQ1RFBEal9Tam4zRzBBS1dlSUwzeTQtaXRMNC1Qb3A?oc=5"
+    "title": "경남 자동차부품업계, 외국인 채용 희망 인원 내국인의 2.7배",
+    "source": "경남미디어",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2ZnFYd3dIZEEzZzlaN1lsVEJBQkRQU3VLVkp0WFdMbkhvXzlnbmxFbjBoOFc3T1QxUDR6MVhaemdGeW1reWh2b1pCMzRQelBEV0R4TFpFOGVGR0xXSWdBSzYzaFJmVkxpcW5r?oc=5"
    },
    {
-    "title": "평택시, 19일 미래모빌리티 포럼…\"미래차 산업 전환 모색\"",
+    "title": "울산 10월 수출 전년대비 51.7%↑…주력품목 동반 호조",
     "source": "뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ISWk0UGRYbGxENm5SVk83dnhEalB4MUstZUt3ejl1d1F2cFB0eWRfQ0tNN1BVLWJxcHktNWsycDdoaVVvbDVEREptWExlUG9QSDdsQWpRVVVBWUVIcnlJUNIBeEFVX3lxTE5Wd1hhYWktTDNkWlRHNlFZQXJjTjZqWUozbXBxMGpHeWl0akE2M1BvUjdiNkdIYV9GRXozaE1wV0xseURXSEtZSnRrd2RKUGx2eWVHLWJZVVgxeUhXcm5ieXNNaEZfcDVBSElpampuSmFLaWZIZmlCcQ?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pTDlIalZCeXRHb2N3XzJxU0dYZzZZVzFRQThrcVRkYkQ0SVYzMTBaZnlUYk9MMzJfTXNWMDZsbUVNbVJHUEYzTk9oLTBQZW9zUll4MU9jbngxM1p3WV9UWHpfS3NRbkJkZGtzY0ZnWXpuT1AzRGNKRtIBeEFVX3lxTE9pTDlIalZCeXRHb2N3XzJxU0dYZzZZVzFRQThrcVRkYkQ0SVYzMTBaZnlUYk9MMzJfTXNWMDZsbUVNbVJHUEYzTk9oLTBQZW9zUll4MU9jbngxM1p3WV9UWHpfS3NRbkJkZGtzY0ZnWXpuT1AzRGNKRg?oc=5"
    },
    {
-    "title": "휴머노이드 시장 겨냥, 로봇 핵심 부품=새 먹거리 [뉴스Q]",
-    "source": "스포츠Q",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRkwtWHNLd0lmd0pmWG5HM2t0djZiX25Hc0FLNXdIMDJBSU54SGFTNmRsRnhFUW9FWE92d0hHSncwYzZWNnB6cVBraFFGR3F0ZXRmeFZZWHdLcGI0andabE1xUmxBQWEwX2c?oc=5"
+    "title": "[속보] 계양전기, 현대차 5개 차종 자동차부품 공급업체 선정…전기차 포함",
+    "source": "CBC뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oVktfOVZ5WTdsWml0SmZ0Y1RiRW1VbXhXcGo1REhSSW16SW1QQlEtc0dFRjZxeTlWbTdDQ3J0MzRSa1ZibnVON2hMUWVfUy1Dc1FBZjZxMzMtalRkZjJ4ckZUQWN0cWlu?oc=5"
    },
    {
-    "title": "[추천주 직썰] 본업 반등에 로봇 부품까지…자동차주, 실적·신사업 ‘쌍끌이’",
-    "source": "직썰",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VTjdDUXE5SWN0TXdvUmoyakhBdXF0THkwaTFZQS1KRjNfOXppTnp4WjNNbkVsWHc2OW5QVlFSYkNSVjNPTnJHMGgtUHhSdENqamZFNzZjZnI0dUZpR0k2YVdqaEN1ak13MW5CedIBbEFVX3lxTE1VTjdDUXE5SWN0TXdvUmoyakhBdXF0THkwaTFZQS1KRjNfOXppTnp4WjNNbkVsWHc2OW5QVlFSYkNSVjNPTnJHMGgtUHhSdENqamZFNzZjZnI0dUZpR0k2YVdqaEN1ak13MW5CeQ?oc=5"
+    "title": "2035년까지 세계 자동차 외장 트림 부품 시장, SUV 클래딩 수요가 성장 견인 - 뉴스 및 통계",
+    "source": "IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1lDWk5qZU55Qm5Ec0FCZlhkZ2IxSjZBOEV3em5MMzZZRzNtZ3NSNUFETnBya3AwdFl1Ykd3eHU5eU5MWHB4Y2g1akFtc1lXNldjdXQtVlcxZjRiTkgxSlU3eGVLUGVhQUQ1SE5haTRlN0VIXzJEb1Zmc3MzT0Y1SnIxa0F2bFBxOFVobUNIQVR6NldBeGNDTW5UWU9oYkpxbXVJeEZsdlV2Y0ZUQXVrNlFyektqYzNCOVlLcHFzS0E1M2I1OGx0ajlUcw?oc=5"
    },
    {
-    "title": "\"공장에 투입했더니 이럴 수가\"…中 로봇 줄줄이 '굴욕' [차이나 워치]",
-    "source": "한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0WXRzelFKS3VYbkJ5WVBwV0M0SVpQWGRfQWd1blBfb1ZGQ1N6R2RjZWdzTWRFNE14dkxDT2NlTkt4VXQtbjQyMjdRalBwTlQwTzhFbmJmNXpyQQ?oc=5"
+    "title": "[중국 특징주] CATL, 상하이 자동차 부품 무역사 설립…전기차 부품 시장 공략",
+    "source": "뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ld2J3LTJDX3JaOEUweUV2SXdCdmlYVFZhekRtWFhJNWhkSk5XMHVVdmlaY3YzRnMyalVlT21HUkxCUUxkVF9MZF9kcmluTUNFWmQ2cW5GaDJJQnJT?oc=5"
    }
   ],
   "현대차": [
    {
-    "title": "현대자동차, 2026년 하반기 세이프티 컬처 위크 진행 | 뉴스 | 현대자동차그룹",
+    "title": "현대자동차그룹, 소방의 날 특집 다큐 Re:boot | HMG TV | 현대자동차그룹",
     "source": "Hyundai Motor Group",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdWZ6VW96bG5OaFE3anY4a2dJbVVNd0laU3V6S25WbkRSZTRJWGNKSnZ1RFNpUXBOanNoaGRva2hFb0N2dG9adU93cF9KTkJkSGhiZTdYQnJ1RDFOY0VvQm9IR2lZU3EwMV9jczlDblRYNFNTajFhazJ1dXF1Z0x3NF9ZSzE2blNkcndjLVRJQmpWUQ?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaDhTMHprOU9icEhmcGR5aFE0M3ljeW5jblJ4OUFMODhPY1AtOVV5MkhPX3g1ZUc3c2h2WXR2eU13VEI4c1VoYnFuZzRaSEdpREREZ2dnRVhNVWxhYXpyTFZ3SlhJem9sSFhOVHNmN1FhQ0pibHAwUFk3aDVsQURSdmtMYU05a0dnZGZfemI4YUR2SGlCOEQ0TndOcw?oc=5"
    },
    {
-    "title": "현대차, 올해 하반기 '세이프티 컬처 위크' 진행",
+    "title": "‘파업 여파’ 현대차 국내 공장 가동률 94%로 하락…車 가격은 3% 안팎 올라",
+    "source": "조선일보",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nOG1pendVbk1pY1pkSEotM0I5VlplRnE0QmQwX1l0ZTlRa2EzMFlHel9sc3Vka0JyQ1gwUk9Zd3FBWURmem03MUxfclNDRlZyeldRM0Z2TW00WWpmN2xsb1lGaklkcXhWM0Z2QmtwNEV1VWJ0VDJFNWJQMDVWUFU?oc=5"
+   },
+   {
+    "title": "단기차입금 첫 '0원' 현대차, 환율 영향 줄인 기아…재무 체력 강화한다",
+    "source": "연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tcmFxOHN0bHNiU3FmTjRpU0JTay05SWNEM1ZoX1VoX09QdHlCcWVKZWZ0TkRvRkdSQ1Zia21aWXU0clZBaVlnMmJnWlNGcW9uV3pnMk5Ub3VqZllBTUs4a2s4M29uMmpfcTJpZXVwNko?oc=5"
+   },
+   {
+    "title": "\"현대차 왜 저래?\" 비웃더니…포르쉐도 결국 '백기' [최수진의 나우앤카]",
     "source": "한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MSVFXMDVuWnhaVUpPMGxaNk9iVGtmb2t0dXAtQXVWck93bGZHdUNCclI1ZDhqSWRGQkVUMVNtLXJsTTE1ZC1IU3NPUVQxU0lYYzJNaVJBZXpqZw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZMkRMRFRPaXJObm05b1dqTmRNdUppRjNKbTJLMEhDVkxzSlRkRGdpSG5ZSGRZaGNuYXY5NGtYUTIzMDNxSXVvcmZaLVRlVGF4dlpGUFh0VHAwZw?oc=5"
    },
    {
-    "title": "현대차그룹 웹사이트, 국내외 웹 어워드 13개 수상… GEO 전략 강화",
-    "source": "오토뷰",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51X3BvWWtpZHhUNWlNRlp3NEMtTUdObkdvQzdFcERVSW9ac3gxd1ZCbFBoR0o4YjdhRFpYbkVUMF81bTh3ZlhmYmpzMzZlNk1TVVJMUVRkZkZWLUpq?oc=5"
-   },
-   {
-    "title": "현대차, 쏘카·에이펙스와 국내 도로 자율주행 데이터 확보 나선다",
-    "source": "전기신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wTzNWaV90aXdZSEZUVjA2R2thXzlsazB0eUlwN0hFbkVpVXVRMlJzT3ZoWVFBWXZEMTFsNk15SGVBbEdMdWV3Ulg1Z29md2NtUC1NZjRDOGYxRUs4VTRlYl9rLXQxM19JTno0TNIBcEFVX3lxTFBURkVTa3NJV1NmVC15dGZlWXJUQW80NGFpRkd3eE83RDJQTlNoTkYzX3pzbkRNZm5majFxNDB1a0xyMFpYLV9QSjR5MGxCVnlhOXVic0l0WHFTdXVCYTdNV0pkSmVsbDlOaW84RlB2cjk?oc=5"
-   },
-   {
-    "title": "현대차, 수능 앞둔 직원 자녀 1천500여 명 격려 선물",
+    "title": "현대차 공장 가동률 94→86% 뚝…국내도 해외도 부진",
     "source": "연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IZk5ScmZBaXlRdkVnQkNTMkhQLVdpTjVucFpzYTVjbGtZUFZxUHNZR0FBS3JOSjFwRjZuSlYtWnFyTVBBT2tsMVJyQlAzUS14UDJ0QXc2RnUyaFXSAWBBVV95cUxNazhiTnZDdGQzWDVEN3BlMnV4M01IazRQaF9Qamhic0ZvNUY0T0xwNmlGdDJGY1FzeXNfTnFVZzJ1R05lbERkdS1xeEZkdlQ4ME1uTU1VVVZEZ1RjR21rRWw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oVnV0c1ZfcTBHa1B5eTFKaVlYS2F6MmlqV3cwVDNiMEVTcktHUmYzWXVscXFaM25CUDI3S2dCb1JMc2R3OGFjRHhjc2xUVmhPblRaVUJPc0FPZXfSAWBBVV95cUxQWGc3YnFjU20yM0hDN2hIY3AxMXpLTXhQcV9mLUNQZ2VoTDBmdko0QnhXbVVwX1JGUUMtSzB5bUJvdW9ESkxPbVJfR3hLYmk1SFdhSW5RcDFLbjZ3bURGOXg?oc=5"
    },
    {
-    "title": "현대차, 인도서 신형 SUV 3종 출격… 아이오닉 P·크레타 하이브리드 전격 공개",
-    "source": "글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkJzZHVqWVk5eEJVZzlYdVlQTGJQSnVoOU5GUG5zVXYwQ2tCa3hQTjlyang1THE4Z0tHZEstelVwUzFsc1V5Q3lhQWk0ck5STUx2MllpX0hjdWNkaDZEMFlsWTFDNVY0ckRHUThWRWdyN2M2YzFUT2JFYnh6T2xhOEZuWXFHVlhj?oc=5"
+    "title": "현대차 9개 공장 가동률 94→86% '뚝'…국내도 해외도 부진",
+    "source": "서울이코노미뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HQVFnLUxtODhqTnJTcXR0VHBHMUo4SW5hSWdLbFlpUmxhWmpHNDJya1QyUU1aUXVWdXlVelNFMDdEbkh4eXdFWHpZNUVRU2RKSHNBSXpUWDlHU19jTlZmLXlBS2VYZVhqRnFIRzln?oc=5"
    }
   ],
   "기아": [
    {
-    "title": "\"한국차, 설 자리가 없다\"…러시아 판매 전년 대비 58% 급감",
-    "source": "더구루",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RZGZOZHNLU2VydFE4clVGUTJTeGIyQkRXcHhrZXI0WFlLTTRfSUZfMlV2TUYzdzhsZGRmRjU0Q3dXWW1CYTEteUZTUkt0SjQtbDF2VWhEMkV5a0VoS3c?oc=5"
+    "title": "기아, Vision Journey 팀장·부서장 과정 성료 | HMG TV | 현대자동차그룹",
+    "source": "Hyundai Motor Group",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTUd2VnhSR3NqcWVodVF6ck1oVkRrUjZOSEZoRFBVdFlTNGJLR0NJLWR2NWhSSlF1WXlteC1OSmg4ZFE1QXRDWmZxSXVjVlBVOFVZeEVYZkFkQVRsOWtWUGYyMUZjTlRCWk4zN0Z3QS1DSlMzZHUzR28wLURXeU1MUUdxU0dQdUJ3SjV4Q19hU0lLaUVfZW15UW53?oc=5"
    },
    {
-    "title": "기아, 카고컨테이너와 신차 고객용 '아웃도어 웰컴키트' 출시 - 머니투데이",
-    "source": "머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DRTg0aDhxb09OSjVIcnF4U2d3SnJYb3BiQ0pWLXMxMGxHeTN0UF80UGZ0YU43cnhKNUJLNlI3ZHhWck9fMEtNd1FUQmVEdS1Pajc1aTJFbzgxQUZMRVV6VnRvRFRkTXVSdmNWWk9KM3kwZ9IBckFVX3lxTE5DRTg0aDhxb09OSjVIcnF4U2d3SnJYb3BiQ0pWLXMxMGxHeTN0UF80UGZ0YU43cnhKNUJLNlI3ZHhWck9fMEtNd1FUQmVEdS1Pajc1aTJFbzgxQUZMRVV6VnRvRFRkTXVSdmNWWk9KM3kwZw?oc=5"
+    "title": "교섭 막힌 동희오토 노동자들, 기아에 '직접 나서라'",
+    "source": "세이프타임즈",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sU2tiUTVBOWc1VVJKYk9nU2VvNlFFSXBwV1pySmZhWnhpQjNPN0lqbDFsNFV0UUJXTXR4RUhrbWEySDdOZDZCSkxBeUVLXzhCY1k0QmhfQ0tTUUFXM0k4LXpMX1JxalhvYVZzMnVGbzNjd1XSAXNBVV95cUxPbFNrYlE1QTlnNVVSSmJPZ1NlbzZRRUlwcFdackpmYVp4aUIzTzdJamwxbDRVdFFCV010eEVIa21hMkg3TmQ2QkpMQXlFS184QmNZNEJoX0NLU1FBVzNJOC16TF9ScWpYb2FWczJ1Rm8zY3dV?oc=5"
    },
    {
-    "title": "기아는 2026년까지 전기차 판매량 30만 대를 돌파하며 신기록을 세울 예정이다.",
-    "source": "Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSFlWZXhxNTVlZm0ydWFVUWdDbkt3T2FWdkYzMG5iaUhSV3BNdEp4dThfWTFEMWowMURweDhGQjY4amZCamozcmRXSFYzRE1qS2p1LVVsWXEyWXhScE9pclV3RWZVTWxlZ01SbGJuMFFIMkZ1dXF6bXlObHhBVlNPVERQY3dXd0hPczFGZ0gzdkpzdEl4c2VGV1VxZGtuMnl6?oc=5"
-   },
-   {
-    "title": "BYD 성공에 자신감…지커·샤오펑·체리까지 [중국車 공습 ① 현대차·기아 안방 노린다]",
-    "source": "한국금융신문",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FMi1WSnl0MzBjRUE4WkxBZ2RUc2V6LS1FbEJURjgwQmNhalk4NUZRMWlQdmdhSEJiUlhFaWZxQllmVkJ0T3hsR1p6VVJaSXltLWR4WW1mbXpVcFYzUmRzbTFJX21QWHoyei1GVGVMSVZ1WXpOS1kyOV92Y2c?oc=5"
-   },
-   {
-    "title": "현대차·기아 美 질주... 점유율 11.6% 최고",
+    "title": "車 가격 때문에?... 현대차-기아 판매 '희비'",
     "source": "파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Xa1N3Slc2R0hpVHVoSWZpTXRqOTJBaVBOQzJhbnRORzhabFZOU2trSHVvd1dFQV9pR25RVC1va3NCV09YcWZ5YXhlZkRFbjJfell1c0Q3dHFPdw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4dlJVbGk4a1pPT1FuOE9oQkRJUjI1QnZZYklFQlQtYlB4UlEybFFPSFYxd2VyUFZfRFgyeHJ0UTNOSGVqZW02b3diaVRWbjliaTctcG4tR0FaZw?oc=5"
    },
    {
-    "title": "나누면 덜 춥다, 함께라서 따뜻하다",
-    "source": "광주드림",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IejE5aXpMZDc4bnJRSjlUUGhOMXZiZjJWTEN1NTlUTXR4c09iZHpkZGwxLTctbzF1LWI0M0FDcWZid2p2MFpiaEd1LXAwTzVidWFJVlZEbWdTd3RZeFhqTG43NjVQSElKUEE?oc=5"
+    "title": "현대차·기아, 미국 위브그리드와 스마트 충전 협력",
+    "source": "글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkJPc20wYnYtQ1BjYlQydnU3b1F4Y2xrMlVnUEY3dV9EMWllUmZObnZGTmtZaFlQSmR4bVM5dmhiSTgwM1dVaWI0VEhWTnpGVXYwWnVDdkJrcll4RHhrcXhMOWtxZENIUVMzeTlhRktnb3I0b3ZpUGpwcWJBVFcwcEF3V3J5ZzlX?oc=5"
+   },
+   {
+    "title": "현대차 ‘목표 하향’·기아 ‘정면 돌파’…남은 두 달이 승부처",
+    "source": "쿠키뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wS3BwakdOWS0wZ3dEbDlGR1FpTkZrbHcwcWdwOG5PTEpSUXA1Q3lEU2tfYW1LVG5oU0VjV09CS0hMNUpJSHByVVFfanFxdFBkNXFpNGFYTWYzbkNpX2J4NGVaWQ?oc=5"
+   },
+   {
+    "title": "판매 실적 엇갈리더니…車 가격 현대차 오르고 기아 내렸다",
+    "source": "뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXMl9PTURpb3YxUGxXSU9YRFk3S3E3OVRWd0llMFRlQ1ZncDk2LVBZZDFNRW1sdmNjd19WNEYxNFZNQkcxc3VKMFRuaklXUThub0VVT2VocFZlRDJ4c3BiTw?oc=5"
    }
   ]
  }
