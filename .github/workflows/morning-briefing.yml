@@ -8,12 +8,19 @@ on:
 permissions:
   contents: write
 
+# 같은 워크플로가 겹쳐 돌면서 data.json 푸시가 서로 부딪히지 않도록 한 번에 하나만 실행
+concurrency:
+  group: morning-briefing
+  cancel-in-progress: false
+
 jobs:
   briefing:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0   # 푸시 전 rebase에 필요한 커밋 이력
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
           cache: pip
@@ -25,9 +32,43 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ICS_URL: ${{ secrets.ICS_URL }}
           PUBLISH_EVENTS: ${{ vars.PUBLISH_EVENTS }}
-      - name: Commit data.json
+      - name: Commit and push data.json
         run: |
+          set -u
           git config user.name "briefing-bot"
           git config user.email "briefing-bot@users.noreply.github.com"
           git add docs/data.json
-          git diff --cached --quiet || (git commit -m "update briefing data" && git push)
+          if git diff --cached --quiet; then
+            echo "data.json 변경 없음 - 커밋 생략"
+            exit 0
+          fi
+          git commit -m "update briefing data"
+
+          # 웹에서 파일을 고치는 등으로 main이 앞서 있어도 푸시되도록 rebase 후 재시도
+          for attempt in 1 2 3 4 5; do
+            echo "::group::data.json 푸시 시도 ${attempt}"
+            if git fetch origin main && git rebase origin/main; then
+              echo "최신 main 위로 rebase 완료"
+            else
+              # 같은 파일이 겹친 경우에는 이번 실행에서 새로 만든 data.json을 채택
+              echo "rebase 충돌 - 이번 실행에서 만든 data.json으로 해결"
+              git checkout --theirs -- docs/data.json || true
+              git add docs/data.json
+              if ! GIT_EDITOR=true git rebase --continue; then
+                echo "data.json 외의 충돌은 자동 해결하지 않음 - rebase 취소 후 재시도"
+                git rebase --abort || true
+              fi
+            fi
+
+            if git push origin HEAD:main; then
+              echo "푸시 성공 (시도 ${attempt})"
+              echo "::endgroup::"
+              exit 0
+            fi
+            echo "푸시가 거절됨 - 잠시 후 재시도 (시도 ${attempt})"
+            echo "::endgroup::"
+            sleep $((attempt * 5))
+          done
+
+          echo "::error::data.json 푸시가 5회 재시도 후에도 실패했습니다."
+          exit 1
