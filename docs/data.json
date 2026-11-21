@@ -1,76 +1,107 @@
 {
- "updated": "2026-11-20T12:15+09:00",
- "weather": "안산 현재 2.1°C · 오늘 구름 조금\n최저 -3° / 최고 2°\n강수확률 0%",
+ "updated": "2026-11-21T12:13+09:00",
+ "weather": "안산 현재 0.6°C · 오늘 대체로 맑음\n최저 -4° / 최고 2°\n강수확률 0%",
  "events": null,
- "market": "• 환율: 1,339.5원\n• VOO: $658.01 (약 881,391원)\n• QQQ: $645.04 (약 864,018원)\n• TQQQ: $49.01 (약 65,648원)\n• SOXL: $45.30 (약 60,678원)\n• SCHD: $34.20 (약 45,810원)",
- "hotdeals": "• [네이버] 하림 불맛포차 직화 4종 2팩 (9,980원/무료)\n• [G마켓] 횡성한우 1++ 구이용 세트 400g (26,130원/무료)\n• [자사몰] 프로스펙스 남성 동내의 6종 (39,900원/무료배송)",
- "trends": "1. 시애틀 사운더스 대 솔트레이크\n2. 키오스크\n3. 굿파트너",
- "summary": "[자동차 부품]\n• 평택 자동차산업, AI·자율주행으로 전환…미래모빌리티 육성 속도 - 브릿지경제\n[기아]\n• 전국금속노동조합 기아자동차지부 정비지회, 화성시 아동·청소년 위해 후원금과 차량 기탁 - 화성시민신문",
+ "market": "• 환율: 1,334.8원\n• VOO: $635.54 (약 848,312원)\n• QQQ: $608.45 (약 812,153원)\n• TQQQ: $41.20 (약 54,993원)\n• SOXL: $30.88 (약 41,218원)\n• SCHD: $33.94 (약 45,303원)",
+ "hotdeals": "• [프리티] SKT망 500분 30GB(8,580원/평생)\n• [네이버] 풀무원샘물 퍼플에디션 2L24병 (10,040원/무배)\n• [지마켓] 락토바이오틱스맥스 프로바이오틱스 유산균 4개월분 (21,690원/무료)",
+ "trends": "1. 알테오젠\n2. 경부선\n3. jisoo sun showers (from \"the angry birds movie 3”)",
+ "summary": "[자동차 부품]\n• 일본차 세계 판매 3년 연속 감소 전망…올해 1% 줄 듯 - 연합뉴스\n[현대차]\n• “자동차 회사가 왜 예술가에게 투자하냐고요?”…현대차 노규승 상무의 답 [더긱스] - 동아일보\n[기아]\n• 기아자동차 영종대리점, 복지기관 차량 26대 무상 점검…지역사회 안전운행 지원 - 영종뉴스",
  "news": {
   "남양넥스모": [],
   "자동차 부품": [
    {
-    "title": "평택 자동차산업, AI·자율주행으로 전환…미래모빌리티 육성 속도",
-    "source": "브릿지경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QclFhUHVqTVh0T2VPTHNwLUMxdTZqVXZRNVlZZ3RvVXBWdFZsTEU0QkQtNXZzSUZPeHZnYnFCWkpBLXVrVWxUMjBaMV9hNmpvSjlIY011Q3didw?oc=5"
+    "title": "일본차 세계 판매 3년 연속 감소 전망…올해 1% 줄 듯",
+    "source": "연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwbmZ2T1otY0hjcDAxWFdlc0hFbTFOc0tSNnB1N3BSRXlUNEtjVURVVzR6RzFxeUJZX19VZ0NkdzBNSnphSFdkc0p6SjVYXzNCSFl6Ym5kRzVHQ0QyYl9vQdIBYEFVX3lxTFAwbmZ2T1otY0hjcDAxWFdlc0hFbTFOc0tSNnB1N3BSRXlUNEtjVURVVzR6RzFxeUJZX19VZ0NkdzBNSnphSFdkc0p6SjVYXzNCSFl6Ym5kRzVHQ0QyYl9vQQ?oc=5"
    },
    {
-    "title": "내연기관 넘어설 미래차 핵심, 올해부터 ‘미래차 부품 전문기업’ 40개 뽑는다",
-    "source": "산업인뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NaXl0MXlSblk2aXpIelQ2RGU3V0tLU0ljUDljbkVxeEtncW5yRzFlSnhidHlXdnNROHdjdVpvTXBNSkpqUlJ1aC1YUzBPbzh5eFJLVi13cVJXbW9UeXZ5eUVVU0FlaUkwRFhuNU9B?oc=5"
+    "title": "HL만도 배홍용 수석부사장, 한국자동차공학회 '기술상' 수상",
+    "source": "livesnews.com",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkRTFUN1hnYmRRMFhTcFR5UXZ0dFhGWkE0R05Vb2NjcE9BQmdiZW9Qc0tNWDUxN3FlOGtnUHR4QXFrMTNEYW1JOEFfLU9ndXRxMUlmRFo2dUxiYkphUk9JRnl3?oc=5"
    },
    {
-    "title": "더컴퍼니, 산업용 AI 비전으로 자동차부품 품질관리 디지털화 추진",
-    "source": "피앤피뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpaWhiYUhKQy1HLTd3V0JsUEpPTWhrQzJZTl82N3BxNW9lYV92ZmFfTjZLTFpfbjNSWlJUam9wNUFCT3IzQmYzaEFlcmMzODZod1U0YmhWNG9kUlFaTGc?oc=5"
+    "title": "트럼프 추가 관세 위험, 전기기기서 차·부품으로···KIEP “투자 이행 기준 정해야”",
+    "source": "경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpM2tpWktvTlJYakRjYy1GR0dLd3UzTVc4eTFJc1Z2b0hQRmcyQWdHT3VwR05PQS01eGV3Nl9RcnlNSVFkUVY2dVY0MmlIdU92eUdSMkFqdkRUZDByM3Vn0gFfQVVfeXFMUGkza2laS29OUlhqRGNjLUZHR0t3dTNNVzh5MUlzVnZvSFBGZzJBZ0dPdXBHTk9BLTV4ZXc2X1FyeU1JUWRRVjZ1VjQyaUh1T3Z5R1IyQWp2RFRkMHIzdWc?oc=5"
    },
    {
-    "title": "한중 FTA에 '기술이전 강요 금지'…자동차·부품업계 투자 보호 강화",
-    "source": "뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56MDRveXJ1bDNmb3NaRDhfQzY1LVh3Nmw1NVRmRldOclVGWElaeWhUdXEzaDh6TXloaXF5S2JGd0J3WmNnX054OW02djV1X2FOZERVMEtkWlhBdmpO?oc=5"
+    "title": "HL만도 배홍용 수석부사장, 핵심 부품 국산화 공로 인정",
+    "source": "매일일보",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Xb1d6dHVYdnpvZTJHRXplZHBhUFhnaTduS2xoTm4xMWZxSm9uRWtlN2xzQ3NYR0J1NHdBOGNNWUxabGJuM09qNHc2ZXRoZDB1Nkl3OGlDT0JxMElyTlZJNWpsWFg?oc=5"
    },
    {
-    "title": "한자연, '미래차 부품 전문기업' 내년 40곳 선발",
-    "source": "전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PblZOaWxfMFo5S2lsaEttekNzX1c0Y2wzZXgxaHBPcE9rWlJrbFBjWkU3QzdzR1RZczZFSmtVMWRhd29OcHcwQ1E2OWZQZw?oc=5"
+    "title": "HL만도 배홍용 수석부사장, 자동차공학회 기술상 수상",
+    "source": "연합뉴스 한민족센터",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qdlV4bW5hRjRyQWhTX3RmRklNSk5HOWZxTFJHT0YzTXdNLVZDa091YmJ2cWZ0dk1zTlk3d3p6VU9FNG5mV2kzM09jbnhWYXVydDdwZVNVT1k1eXZEUnJZSlhSMENKQ29mSVhScjRoVjlqdVF3?oc=5"
    },
    {
-    "title": "최원용 평택시장 “자동차 부품기업 미래차 전환 지원 확대”",
-    "source": "아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CV0xkWWVobmRadXJSRU15Nlc1b09vYWdJb1BwZGp0WmRFUnFTR1lNVzFwa080SXpRbG5wQk9yUzhDSlNYZDNRNWFTMEpWX1ZtdEdVeDNjU2J1Q05JQzNsOA?oc=5"
+    "title": "부품값 줄인상에 국산차 ‘원가 압박’…中 밀어내기까지 ‘이중고’ [비즈360]",
+    "source": "헤럴드경제",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aN0NValQwVUFzY0pRSFMxTG5YQXhrbGtteEIyREdjRVJKN1ZJaGZWMlhWNml3SUVmM1lZTDgzMU5WV2lHOFRFWTljTFl0cE1XRkVDaVl3?oc=5"
    }
   ],
-  "현대차": [],
+  "현대차": [
+   {
+    "title": "“자동차 회사가 왜 예술가에게 투자하냐고요?”…현대차 노규승 상무의 답 [더긱스]",
+    "source": "동아일보",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kdmtyd0JLU0s2OHVZak9acGhUWHUxOXdxcExUZUdCNlFyeUhJU2JYbmtZNTRfVGdqc1BkZG9EZVVrcFRPRXZBZkp1TkY3RzdCcE4zM0haUjBSZTVBU2hRZEVHMk9yb0M4M0czNDRSUkRlTm5IWWdNUWdoONIBZkFVX3lxTFBxTmNmXzBRSzBNM25ZTjJoYUJhSThMSlIwenNVckNMdTFxUDJLRjF0RDh4eFFyT1luc2xiZkJVbWZNN1h6Y19nMXRqLWdoUnE5LUwxLU00ZnVlM3FEbjVfWExNajJ5dw?oc=5"
+   },
+   {
+    "title": "현대차·기아 수익성 떨어진 이유 있었네..알루미늄·구리 가격 급등 - 머니투데이",
+    "source": "머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41R2s4XzFGQWY3UjBHZk1MZWp2RjBYUlJteEdJQ1BTVkVCSXNMalZaT2VUb1ZoMGtfdjBqRjV1Qjk5SU9IbUZHVVIxTnJWTTBvazhkVnR3YzhPdnUzVURtWGVGN293M2tPUzdoWtIBckFVX3lxTE9PVExhRS04NUQwSXpWYjdOdFpKQlBSWVo0VDNqVFUyb2JtdFEydTNGNjlUU0JuSkNheWQyTHhkMF9vRFRXUHJ4akx4UU9yd1Fka1hhTExsNkdHSV9ER3V1QnJVNlU1VDkwZ2NNeGU0UXFEQQ?oc=5"
+   },
+   {
+    "title": "국내서 계약 신기록 쓴 아반떼, 미국 간다…현대차 북미 공략 본격화",
+    "source": "녹색경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QYTZtR1VUaUp6Z3dRYk1FSEdJMEN6MnlIR1A4R1pIUm9tclU4MlN4cFdNanFua0tGX3FVdkttMFZ3WWQwTkpDbkdqZ1g5VkFuSXZYZFFqUVdrZm0zTzRJempvejZydnFr?oc=5"
+   },
+   {
+    "title": "현대차, 美 로보택시·韓 자율주행 생태계 공략…기술 내재화 속도",
+    "source": "PRESS9",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RWk9CcFVEbmNaNERVaG1kc3Y4VmRnSTRDb0FFM0FrZkdmOVRMenJMVTRhb19PdFIzRlRxa2pHNWhyRm1xbGs1SlpLRHFRZUhuWmJOdXJYbTVhNkE3M0I1RnpWSnc?oc=5"
+   },
+   {
+    "title": "현대차 i20, 브라질서 18일 만에 3259대 등록…출시 후 첫 월간 최고 기록 경신",
+    "source": "글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZExjeXM0RFUxYU10dFZMTDdSTXRKdVA4Z3cxZVhndlFJNnhzWUNOekx1RkZENmM2Q0wwU1NwMjBEWUdSSVVEUXZ1Sm92S285b0hxS1RMUWt1aVZBVGppSXhVeEQ5Z3BuMmpCQy1jVGNGWnZXbGFtd1E5UjBGX3RLM1FRLXBxTE0?oc=5"
+   },
+   {
+    "title": "현대차 보스턴다이내믹스 활약에…DHL, 로봇 9000대 시대 'AI 통합관제' 본격화",
+    "source": "더구루",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92c3B0YkpBbWNkN28zckRucmt4TWxmMjhPS3pCZmRmeWp1UVlabHpIVk1iNUlMSzByVVNVYWVRMndSZ2lPSFgydWhoQllEWlVkQmZCbjZRNWRrbGhIakVEVm1qTQ?oc=5"
+   }
+  ],
   "기아": [
    {
-    "title": "전국금속노동조합 기아자동차지부 정비지회, 화성시 아동·청소년 위해 후원금과 차량 기탁",
-    "source": "화성시민신문",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LSncxbE5WUDRLN3hqUHlxT0NkVFhwd2MwZ0pCN2ZzZk9Md1A2YUt1eFAzR3dDTE1VSjNqVDRZS3ZRTE9RX0pxbXFHQ1hDak1pTThxLWZQRjM1ekNRWVZ1RDdCbGRLSkR1WGR5VWJSdGk?oc=5"
+    "title": "기아자동차 영종대리점, 복지기관 차량 26대 무상 점검…지역사회 안전운행 지원",
+    "source": "영종뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wR24xOEFDZUxrZXl3QnhDbi02eFZJcllNbTJhUmQ4TnNLSVBLV0JLSWtmU3lqcUk5WVRWYlNGQzJmVUNLT1lNazNmWHI4b3J3OWFsajNtQVlTZ2t1dk1iM01wU2FaTDJGSDl2QUx3?oc=5"
    },
    {
-    "title": "영종종합사회복지관, 기아자동차 영종대리점과 복지기관 차량 안전 점검",
-    "source": "한국미디어뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lOTlVdFRTQWhZeVZDVFppV255Z1ZVN1hCVE1BWVdhVF9vZUJ3Q2pEdVNRQkY4NXpFYjdPODI3V1VMMm1IMkhrSzh4QXlvRlF4QUMyWTh3eVp6X0V2NWxrM3AyTzJGUQ?oc=5"
+    "title": "中 자동차 내수 22% 급감···글로벌 시장 덮치는 '수출 쓰나미'",
+    "source": "서울파이낸스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55alpfcC16ZG1wbzVuVzg3RXB4N09DQ2tiZ003U29POVU3VkJyb0h6dHY3YTJ2ZzNmajVJb01DRjlqcWd2ZzVPRFlObFFCZ1NJekMxaWNVWHZlNEczMWdTY2dpU1lrSGx1Ync?oc=5"
    },
    {
-    "title": "기아차 노사, 500만원 후원",
-    "source": "담양뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42MWpncFhSeS1WS0hMVkdqVC1LcUJRWVdCZnhNM2dfeHlTZGVJRFZ2ekd0Mnp6V1ZVT3V2UTM0SVpuN3paM1dTbnloSzJrUDdwaFRXRTluRlJmLU1PWGd4V243VWFzMTdn?oc=5"
+    "title": "픽업트럭 시장 KGM 점유율 82% 독주…기아·수입차 추격",
+    "source": "기독일보",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sRHlIZFowVzA1by05M2pOZWZBa3p1M1ZwMzllM3huUVZ3cFZCbjBqM3V1WHI0LWdXd1ZRVkF3SlYteUx6TkJkODI5LUpDSGtuQTgycm1Vc1NHWjJ40gFcQVVfeXFMTWxEeUhkWjBXMDVvLTkzak5lZkFrenUzVnAzOWUzeG5RVndwVkJuMGozdXVYcjQtZ1d3VlFWQXdKVi15THpOQmQ4MjktSkNIa25BODJybVVzU0daMng?oc=5"
    },
    {
-    "title": "현대車 '주춤' 기아 ‘질주’…21개국서 희비 엇갈렸다",
-    "source": "경제타임스",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qVHBaVjluMzVMa18xeVptUXd4SFNQWFlfN21sSW96V3QwMUFHUGs3TVhhMTE0WkhYeGNzcUlSOWdKeDVHWmtfZFRPSXhHb2dyZ0RN?oc=5"
+    "title": "현대자동차·기아, 2026 신뢰성·강건개발 페스타 개최 | HMG TV | 현대자동차그룹",
+    "source": "Hyundai Motor Group",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeW1iYk9DSTloVnhNVzV3Y0Z0aDVuM2VoODhEN2ROM3k5UXNNZjVaMUVQcHhnYlE0TkhNTHlHRmNJampDTm81emowZWdNZjRjeGZlZWd2ODNpSHExdUVRbTl3SWJvdmNmNEx6bHlxTE9TU1dOSlQwV0ZJY0ZhSnZEU0NKSEw1Y0NJblJnaDVodndKejdybE9ZODVPRQ?oc=5"
    },
    {
-    "title": "기아·라파엘 나달, 협업 브랜드 필름 공개",
-    "source": "오토투데이",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52LXpJYTNfdTZ0NjZLT1JBd2VYc01QVndpY3hRRUNLRWFIWHdpXzhYZEl0aGZNWlY0WnkwYktEaEhnMGxnSzRtb2JvRDhoZXNMR1lkbnhPeGpFZm10RUNzZjRNcWRQZGVoWEVJUWQ3VQ?oc=5"
+    "title": "[증시다트] 현대차·기아 목표가 동반 상향…실적 온도차에도 ‘로봇 프리미엄’ 커졌다",
+    "source": ":: 위즈경제 ::",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lYWZ2b3Q1QWtBQXpXN2tyZUQ0MTlvN2p6TVBRWFd5ZmZRMXpMRU15YXVFaGk1dlZrLTVLQkdzaXQ1MEJlWEg3NHp0VnYtNUJzRnFiVA?oc=5"
    },
    {
-    "title": "기아·나달의 22년 동행…이제는 테니스 유망주 키운다",
-    "source": "월요신문",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVSWlfeXdvNVp0WUg0X2lxUTlxcXRFNnd6S0ZaWmt4b2prVHcwS2pkbGJUSHpZdlR2LW1WNkx5V09FdTl2ZHFGUmdUTGpKeC01aVJQOHRpZE9YRkJZUnVfMnd2TkRNYWVzLVE?oc=5"
+    "title": "\"택배차 급해요\"...기아 PV5, 포터-봉고 부족한 2% 채우고 있나",
+    "source": "지피코리아",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1UlU4Vi1SWHhPckJPeEI1MEZOLXBvME5GeE80TVR1Q3Y4RDV5LVBNQ2FZdE52b2xUc3BXM3NBZW4xWW9XY2JEQ3g2ZnoweU11ek1id1h5WFFLVzV5cmFPVllqbkM2ejhmNVE?oc=5"
    }
   ]
  }
