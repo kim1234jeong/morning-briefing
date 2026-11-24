@@ -1,107 +1,107 @@
 {
- "updated": "2026-11-23T11:45+09:00",
- "weather": "안산 현재 11.1°C · 오늘 비\n최저 1° / 최고 14°\n강수확률 100%",
+ "updated": "2026-11-24T15:02+09:00",
+ "weather": "날씨 정보를 가져오지 못했어요 (HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=15))",
  "events": null,
- "market": "• 환율: 1,346.9원\n• VOO: $635.54 (약 855,996원)\n• QQQ: $608.45 (약 819,509원)\n• TQQQ: $41.20 (약 55,491원)\n• SOXL: $30.88 (약 41,592원)\n• SCHD: $33.94 (약 45,713원)",
- "hotdeals": "• [토스] 유한양행 비컴플 멀티비타민 액상 30ml 36개 (31,798원/무료)\n• [G마켓] 라이프익스텐션 종합비타민 투퍼데이 V2 120정 2개 (카드 37,220원/무료)\n• [G마켓]미국산 우삼겹 200gX8팩(17,870원/무배)",
- "trends": "1. ssg 랜더스\n2. 제주특별자치도\n3. 삼성증권",
- "summary": "[자동차 부품]\n• 모베이스전자, 자동차 전장부품 기반 로보틱스 사업 확대 - 로봇신문\n[현대차]\n• 현대차·기아, 루크 동커볼케 CCO 디자인 아카이브 전시 개최 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group\n[기아]\n• 동커볼케 디자인 여정 한눈에…제네시스 박스 버기 국내 첫 전시 - 머니투데이 - 머니투데이",
+ "market": "• 환율: 1,342.8원\n• VOO: $663.91 (약 891,512원)\n• QQQ: $651.03 (약 874,216원)\n• TQQQ: $49.10 (약 65,932원)\n• SOXL: $43.21 (약 58,023원)\n• SCHD: $34.39 (약 46,180원)",
+ "hotdeals": "• [지마켓] BYC 본사 스탠다드 양면 남상하의 세트 (14,220원/무료)\n• [컴퓨존] 로지텍 M340 무소음 무선 마우스 정품 (9,900원)\n• [지마켓] 휠라 써멀 경량 넥워머/헤어밴드 (11,610원~/무료)",
+ "trends": "1. 농심\n2. 장기 기증\n3. 퇴직",
+ "summary": "[자동차 부품]\n• 몰아치는 中 전기차…국내 중소 부품업계 ‘초긴장’ - 이코노미스트\n[현대차]\n• 현대차, ST1 기반 산불 대응 차량 실증 사업 참여 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group\n[기아]\n• 현대차·기아, 3년 연속 안전관리 최우수연구실 선정 및 부총리 표창 수상 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
  "news": {
   "남양넥스모": [],
   "자동차 부품": [
    {
-    "title": "모베이스전자, 자동차 전장부품 기반 로보틱스 사업 확대",
-    "source": "로봇신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nV3AzdEJJWVJoR2xDWm9DaGo0bk5Cd0JWbFNPZEdjb3lvWjZUWmlBVEY2Q3VxQ2FQT3phandrT0xuYzZJMmJyd1I2T0Z0S1gydGhfQlFldXpFbnBrZzhnSmxnN1d1dkotV3dUaw?oc=5"
+    "title": "몰아치는 中 전기차…국내 중소 부품업계 ‘초긴장’",
+    "source": "이코노미스트",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mLXFTUXhzS1RBSzBGVlJUbUJud2YteHJDNUw5V3AwVkNXVVYyNkthbm1mZy1QMnc0Q09zTUd5cmEzZmNldUFKaVhVQ1lMUGNyVEMtS3VyX0ZYSkljM2FHUjF3?oc=5"
    },
    {
-    "title": "모베이스전자, 자동차 전장부품 기술력 바탕으로 로보틱스 사업 본격 확대",
-    "source": "파이낸스스코프",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aa3kwY1VCM3ZFTUliQ2VjSkhZbldDR1BhRW1CMUM2dGlNeVhqU19rVjVvZFFuQTZJdW9XdGc5VFQtYjl0ZzZyWDZOdXVHMm9XS1BVSHN3dmJYRmVFa1VoX0x2MkxFcktacEE?oc=5"
+    "title": "중국 관영매체 한국 자동차 기업에 부품 공급망 협력 러브콜, \"세계 전기차 전환이 기회\"",
+    "source": "비즈니스포스트",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRYkY2Njg5VDFISzAwRXFDUk02VVZfSFh0LWp3bTFiQ0ZsTmRuYU1kV0lmUUxkY2h1SzYtX2tURG5DSGxGUU1CLV9BRW1RZUE0aTB0Y2pldy16MGxGdlVKN3N2dzRFS0p6cXpnQWt3YXpKVGM?oc=5"
    },
    {
-    "title": "강동한 대표 “5200평 공장에 직원은 16명”…자동차 부품회사가 살아남는 법[비즈피플]",
-    "source": "헤럴드경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9heHk5U1hIZkxPN01LRjJDTE14eGpYai1fclprbFhXaHYzX2FoLTE1WjBMQVNHajMtNmZ5emxDMkNYYndaTld4NUlleFJrQlQ1V2VSVVRn?oc=5"
+    "title": "자동차 산업 미래 경쟁력 이번주 분수령…자동차업계 촉각",
+    "source": "연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EMmRKZnRLbmFibzFzTnNkRkE3azZPSzBXSFpJTmR0RTJrQmVDSUlqUU5TcUFmNXdqalJsZ1dSZjBMVzlhNk80dVllTjVuSVU0TVJYQlBxSVc0MWfSAWBBVV95cUxOTGtYc2ZRR0xTN1ZVZzFYRXctc2tfcXRNbTBVOWFtb2EyY3JuUnRkc2FhZnhzamVKQkpVR000MHBJelNxR1VWTW5NU2tmZE1nMXNsNHpjUjlHZzhZNURiT1c?oc=5"
    },
    {
-    "title": "[오동근의 보험맹 탈출하기] “전기차 하부 긁혔는데 배터리 교체비 2800만원?”",
-    "source": "한국보험신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6MjNQOW1mcHJORW1HMDY4d01CbEFPYUdWWDA3Q24zRHhSbjRZU2dnTjYtODA5VHpjaFJacEwtWWhLaUFQbU14ZGtiOUROSEg1MnVsdWVKM0twRUstdm1IWkpIVi1XV3k2cE5n0gFvQVVfeXFMTXRLekJNUVczYnVRa0RCdEhMOFEwRWQtOHFOVjczeGhPWDlTZGxBamtidWx4b2d6V0syYXVNdGQ3c3E5WWQzRXFtd1h2VDA5M3owUnhCRzJxT1Ezb2tEM3hpQlZFc0tZUGVZaWp0N2FV?oc=5"
+    "title": "빅웨이브로보틱스, 자동차 부품 공장서 이족보행 휴머노이드 실증 성공",
+    "source": "www.ebn.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4d0FDMXpjbGZ4SVBHdF93TmNFT0tZeDFvUVlyaW5YSW01Z0MxOXFVREtONldsUmY4NEhiNVQxSl9saVo5bWtkSElCcExpQUZYZHBQRFNQWHEtQlJVelRqM0xNY0RPc0JV?oc=5"
    },
    {
-    "title": "인천상의, 지역 자동차 부품업체 노동자·가족 1천여 명 문화·여가 지원",
-    "source": "중부일보",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EaUV2TU9yMS1TYTdMUFJZYU1hNkJMLVctZFhDR05pbjFQQTBvckE1bk5WVW95LWVxcGFrTl9zT3NLMDZJR2QtamdzcERob28xUjlHejJBUEZnTUlFTHZkNUN4dk5IR3E5SjFpdFlIMA?oc=5"
+    "title": "車 디자인 거장의 발자취...루크 동커볼케 디자인 아카이브 열린다",
+    "source": "교통뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vb2ZPejByOWNYWFpTUGVUcmNCVVpRV3BBRlVPZDBUSjdDTi1EYmN2alFxNmY0Z0VHcXV0d2xnX3FMc2V1enRUUGdZVUQtSkNQR0VjQUZXd3BRemRFOGd5TlllZGJFT3RKYXRDWg?oc=5"
    },
    {
-    "title": "Toyota, Nissan, Honda, 비용 절감을 위해 부품 표준화 추진",
-    "source": "GeekNews",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPallLWnNXZ2ZCaHlUcllMTVJWbGRoVWJGbXB1cFc3V21ycTVZMmlvT3phZXhfYVE2VDAzN0lheTg1dDl2c3oyTGV2UmJhMVhyVzZldGU5dzdnNU5lOW1MNXZYdXBVX1NnZWZISjBPRTdibHU1V1RXSXJKbERZVUJkUzRTTGVkQ3BHSHFtODB3TkNrZw?oc=5"
+    "title": "빅웨이브로보틱스, 엔비디아 연동 이족보행 휴머노이드 ’국내 최초‘ 자동차 부품 공장 실증 성공",
+    "source": "파이낸셜포스트",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kTEx2X3dLM0RsVEREUWFkcEhrMDVIY0xJRXV6U1dNQ2JBU3Fxc1NxMUR1M3VqX3ljbWtkVlc1NHVKTUNmYzdyMG9kMXdydm1WMDVxaDdqLWlNRmxxdnZ3b09SMjIzeXFxWHlrRDcxdW9qM1Nz?oc=5"
    }
   ],
   "현대차": [
    {
-    "title": "현대차·기아, 루크 동커볼케 CCO 디자인 아카이브 전시 개최 | 뉴스 | 현대자동차그룹",
+    "title": "현대차, ST1 기반 산불 대응 차량 실증 사업 참여 | 뉴스 | 현대자동차그룹",
     "source": "Hyundai Motor Group",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDBWUFBXTUFnSV9LS1hYY09jNzJER2tXeFM1ZE1fUks4WFdZdWRvVTgyN29BN2RPVmFFa0lUcUVidXN6SEUtdy04LXJSSzRyMkpRdDJtTnhOY1lFOXBjaVlpRnJhaUdycXA3eWR1dm9zcEN6VDVZNVBzNmRORmx1Mmt2ZUFKSmthc1RDd0t3R1RHcURmeXYtU2FnZVkxdXdFRkpEbUJR?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3hBYk5vZGpEa2FHeFUzLUQtWHl0N25SRXNyVXQxZ0ttQUdzNFhZelRDQXFZcmNialpUTjllVnBuLXRkdnlJSXd1TXZvMWpLeDhiY29hSFpEeHVUajZYSWhaMVUtT0VEbk9pamNqX3Y5NHplZ2tXOWc4U3RqTEtHM245WWhwQTlpc0dwQVNPcEhIRG5WVG1Xc0tSMEk4ZEs5aWlfNjBkQWpLUldsbTc5bFhRSy1Udw?oc=5"
    },
    {
-    "title": "안방선 파업·유럽선 역주행…현대차, 아반떼·투싼으로 美서 돌파구 - 머니투데이",
+    "title": "\"안전한 연구환경, 정부가 인정\"..현대차·기아 '우수연구실 인증' - 머니투데이",
     "source": "머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Cd1NldkFUMDVKZml6ZmxsSlpFa1RsWjBkVE02SDBMMmU1ZzZVc0dCR29jREQzWGc5NUZ4LW9kOTJjZHFrTkEzdEJCdFotSEJ1MHh0MjhfSnJFMlowVTZKMWw3SzhHT2ZVdjBPSdIBckFVX3lxTFA5SDNEOWdrSlNiUGxWczMweWk3bm56akVPZXBTVk1RdTgtdnB2S25NU0hmWWhZaTZKejR0VDE1YXlDOV85MVFSUi1zUy1OZ1VCVWlueWQzZjBEdHM0aGtyWmNxazd4aEZyT1N2STNDTV9wUQ?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qYWZCUDVGcXVSZ3VRZWFfUWQ4bTZkMFVBc3UtNy1ITE1DRXRPX1laaVJfSnZnT09HY0pEY1Rkb29hc0h1RWhDRlQyckI4MXctbmVuNWh1TUhDTjBtWTM2MFUtaGlaSFRzMUgzSNIBckFVX3lxTE54eFhnM1lUUUdPVzhaZlJ2RTFLSGdoS2kwTmlCLUd6aEZMVVNrTndVZnIxY2t6Nk94STdXRU16NkdOdGFPbG5BaXowbUNWVnp2UlZnZ2lyN2VoN2hDZXpHc3lmTE9WZG0xdC1LQ0xNaW9fZw?oc=5"
    },
    {
-    "title": "현대차 '버츄얼컵'에 열광한 지스타 \"모터스포츠 게임으로 'N 팬덤' 키운다\"",
-    "source": "오피니언뉴스",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12S0FTdnR5c3hva3BwYjR0SDkxenROSkI1eTdXY19OY3dhWkFsUFFiLXQwS2FuVzRLVWxpd0FhU1Y3cGNuWEZJdWNPMF9mMmRJc0c3ejFYc0ZCSHBwNlpwWDFGMzU2UWVweFZWRGNkZlc4QQ?oc=5"
+    "title": "현대차, ST1 기반 산불 대응 차량 실증 사업 추진",
+    "source": "BBS 불교방송",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVcUN6OE81R2VhTGpLVGNlQ3d6MWZoNm1qNXk5S2JEdFVNcERoczJHTWVPUXFETkdBY1BTQk9hX0xmRTdmN2JuRFBoQ1JEejBmNmRxQjI3TEpHNmYybThmRUJCS25Uc0VTc3hv?oc=5"
    },
    {
-    "title": "\"글로벌 최상위 대회 휩쓸었다\"…현대차 아반떼 N TCR, 6번째 정상",
+    "title": "현대차·기아, 연구실 25곳 안전관리 인증 유지…3년 연속 최우수",
+    "source": "매일일보",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MemsybUtpQXVxYkdvNHFLQ0FnV1VWRlNvOWlTUUgwUWNlbzlyeHRTTXc0Y0RQak51T0M0WkwxWmNzaFZfOHAxazkwTFR6a2JrNUVQdURlQWhQSkRuLXJabnlDS3o?oc=5"
+   },
+   {
+    "title": "현대차 ST1, 산불 현장서 지휘·회의 맡는다…전동화 활용 확대",
+    "source": "디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tSFZNSFlOQ04tZGxtQW1xRFBJSGUtTlRrOUZaQnlPRzREbWRwQ3pSb1VmLW1vMlJTSHU5bHY3aF9oOFdnTFBpMmJxSzhES09FWF9zRWxyc29vbkkyWE4tMkxCNFQ?oc=5"
+   },
+   {
+    "title": "현대차, ST1 기반 산불 대응 차량 실증 사업 참여",
     "source": "한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53bnZqRlMteGplaTJsM1d1SHRhYmExUmoxMW92bFcyUkZjNkJuNHhWUDg3MllGZmtuMGczRW9jTjJsU1g5NmllbjZPRlZiMzRIaHpnM1VucHdlZw?oc=5"
-   },
-   {
-    "title": "현대차證 \"코스피 외국인 매도세, 12월 중순부터 잦아들 수 있어\"",
-    "source": "연합인포맥스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15M3dSRV9QN3ZKb21YdzBNdGlqM2FGSVY4SlV0T0FnRXdfazVudjkxNUFqN3JyemxUN1FKQTN4X05pbG41eEVXT1JRamZmNXhydE1UZW5mN2pQYnpFdS12SjU1MkpRZjUxdVF6V3FrbVk?oc=5"
-   },
-   {
-    "title": "현대차, '현대 N 버츄얼컵' 성료…김규민 선수 시즌 챔피언 등극",
-    "source": "글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemNpTFZDd3pYNFQ5VnRxMlFhdmZUNDVyemZhellyclg1UXFOOFN0bW5oMmg1SU1Ga0RKWXFYUWhseTBxSEpQY1RoaDZpMXV5VzFmNmxGMnRwUHVuNV9iYWtFY1l1UlRIMkR0N2VBSHc0a1NRdFoxZUhrcEpxYjdxRWlLNlo?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WUjdudEpBWlhaVXVMd0VhbEVmb2h0cUZadG1SNlFCR3ZuUzRSM2hCdnVIcUJ0UkV4N0VuSUhxbk9iZ2VTcll5TUlqamR6aHZYa0IyUDZBSVNKQQ?oc=5"
    }
   ],
   "기아": [
    {
-    "title": "동커볼케 디자인 여정 한눈에…제네시스 박스 버기 국내 첫 전시 - 머니투데이",
-    "source": "머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoeXZLV2NCbWQ2OGNWT2FYaXZvaWpIRTEwZjVla19CZ0xxZkJJOGYyVjNNSUpldVZkcjY2dnFsb1NBbUZmbDJKQ2tLY1RBalkzN2V0VFp3WEhLeUoxaFR6eDNSTGp4dXhsOE5uQ05aZkdPZ9IBckFVX3lxTFBoeXZLV2NCbWQ2OGNWT2FYaXZvaWpIRTEwZjVla19CZ0xxZkJJOGYyVjNNSUpldVZkcjY2dnFsb1NBbUZmbDJKQ2tLY1RBalkzN2V0VFp3WEhLeUoxaFR6eDNSTGp4dXhsOE5uQ05aZkdPZw?oc=5"
+    "title": "현대차·기아, 3년 연속 안전관리 최우수연구실 선정 및 부총리 표창 수상 | 뉴스 | 현대자동차그룹",
+    "source": "Hyundai Motor Group",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV1lsUFN6VTk0UlVqbTNscFdtbC04YW8zZjlXeG9jeWNNYlZjRF90ZVpkaXNocjdPbFhNMnV1ZkYwVkpKN2lSWmYwb21mSmNiRWpSbFp3dWZlRHVGMldVOFRDTjdmVnpWUl9GUnlvMEFZVlBZSDRuR2xKT0VWc3Bub3FJTl9kd3EyN2NZdGNYb2RFTW92YVRRLVF4R1h2VndWSUdGcTkzVlFaNlRxaGktTG9UbEdGMkFmRnhyLUlEbw?oc=5"
    },
    {
-    "title": "현대차·기아, 루크 동커볼케 사장 디자인 아카이브 전시",
-    "source": "헤럴드경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jMjNmMUdqZ2J0d2hRNzRFTWVLMWxhSVBxMG1oMkJOWFZJb191OXJSYzZEajdGVzkzQzkxaTFuS3ZEZ1FiWjRLOS1mdXRTencwY3c4QjZn?oc=5"
+    "title": "현대차·기아, 3년 연속 안전관리 최우수연구실 배출",
+    "source": "BBS 불교방송",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zRXN4bFN2MEh1WGNrbk5IeEM3Y3F5ekVaMWNxb21TZVBlUFBVcklkaUVVQWNOSnNXcGNXaWdqd0IycjVRME43UjR4cHRvZ3NFd1RPMVl1MjJDbVRHVTRCVHNWVzNwS0t1NmVV?oc=5"
    },
    {
-    "title": "현대차·기아, 동커볼케 디자인 여정 조명…스케치·모형 한자리에",
-    "source": "서울경제TV",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyZ1JERTA0M0JISER6dFZ0V3pLUFlYSlpObmR2T3ZhTlQ4NlpMZjRtSEdSdTUzWTgxcTNEV1I5VTEyT1NPMmwtWGN2OGY0Q2xIS3JkaDlkN210MHJxaWplUFBpcDA?oc=5"
+    "title": "유럽 車시장 3.4% 커졌지만…현대차 18.8% 감소, 기아 15.7% 증가",
+    "source": "파이낸셜뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11TlcxcjJpVUFIRE5CUTAxNUVzNm9QUmo0d2tHeHhEeWphUExNSWV0a3M5Zjd4UHJzU1hJUG5sajRTSF9iUV9IZERJR1ZzaEk0UjlfUWpleGRkZw?oc=5"
    },
    {
-    "title": "기아 미국 신차 딜러 만족도 조사 5위 도약…독일 포르쉐는 10위로 하락",
-    "source": "글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0tGMkNoTGZnRmo5S0psSUR1czEtRlZSS0pNWHFmcXo0UHlTMkdEa3hSMXZLYml6RDJkV0lIUW5EaTFZYko4SzEybUVtemQ2ZFJPMm95X3hzNzlaOTZMSEJ3c3QyZEJaenpUdkh6N0NmREQ1dS1XdGl4NlRHWG15VkNpbVNpN3dL?oc=5"
+    "title": "현대차·기아, 3년 연속 `안전관리 최우수연구실` 배출",
+    "source": "부산일보",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBdDVtWmZiNGJjSkR0ejBhY2lFZDNzV1EzUTNBeTJVeG14TElLa0N6Y3VVTTN2aGZMenJKWVdOUkEzSEh3WU1UQm0zMVQ2cGhjdzd1OHFLTndsVmRuSkdNNDZZRkVKcGtNX0FsZmpjdnN0bnZFMWlXVnducw?oc=5"
    },
    {
-    "title": "현대차·기아, 루크 동커볼케 디자인 아카이브 전시…창작 여정 조명",
-    "source": "이데일리",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWkYydy1vcGNtdktWQXVaVlp5NExtRDk0bHhvMU9PdW9rNUhMQjluVG16SlRXeFE3d0U4bnRUamxSVm5iaTNfX2V3QzdRLUxySVJmaTVRSVZlNXdrejJXVlEtc2dxOVpSTmtRMnNZajNWcWRwdWdmenRyTUVyTi04ag?oc=5"
+    "title": "현대차·기아, 3년 연속 연구실 안전관리 최우수 선정",
+    "source": "스페셜경제",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qcTFsRmlNbXk2LTN5Uy0zQ1drMEVqUk4tZEhGbVE3QlByMURMRnk4X2o1NEk0N2p4dE1OV2c5ZGlwZ2Y5aUZjaHlORURZUEJTaG90eXloYl9qWnR6VUVJTDF6dlZpeUlzbmFOTw?oc=5"
    },
    {
-    "title": "현대차·기아, 루크 동커볼케 CCO 아카이브 전시...\"10년 디자인 여정 조명\"",
-    "source": "팍스경제TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yTkxKUWcxZEZyQ0tsakhBb1l6alZ2TDYtc3U2MklJdVEwRTFRWl9JUExuN1VpOFRZMktSd2ViWGdQZEJxRzFGQ01hZEpybDRCX0NIaEN4RHlXSlBmRXRXLTAycERUdUE?oc=5"
+    "title": "‘15곳 신청해 15곳 전원 통과’⋯ 현대차·기아, 3년 연속 안전관리 최우수연구실",
+    "source": "브릿지경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMZjRFV3VLaVY4dHctTVN0Vko4cWg5NUZSMGdzWlhXZkQ4WHB4NXI1ZGZVYkNiM0ZWZWR5VzJuTERjZG0tVkp3cUFxRy1xMnZQbl9SMUlTalcyUQ?oc=5"
    }
   ]
  }
