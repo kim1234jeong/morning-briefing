@@ -1,107 +1,107 @@
 {
- "updated": "2026-11-27T13:16+09:00",
- "weather": "안산 현재 15.0°C · 오늘 흐림\n최저 7° / 최고 15°\n강수확률 82%",
+ "updated": "2026-11-28T12:54+09:00",
+ "weather": "날씨 정보를 가져오지 못했어요 (HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=15))",
  "events": null,
- "market": "• 환율: 1,341.6원\n• VOO: $658.87 (약 883,927원)\n• QQQ: $633.93 (약 850,468원)\n• TQQQ: $45.28 (약 60,747원)\n• SOXL: $32.02 (약 42,957원)\n• SCHD: $35.29 (약 47,344원)",
- "hotdeals": "• [11번가] 코카콜라 제로 + 스프라이트 제로 190ml 총 60캔 (21,570원/무료)\n• [G마켓] 이니스프리 블랙프라이데이 최대 70% 할인 모음 (다양/무배)\n• [옥션] 연육80% 부산 봉어묵 2kg (11,900원) (무료)",
- "trends": "1. jyp 엔터테인먼트\n2. 엘니뇨\n3. pet the horse",
- "summary": "[자동차 부품]\n• 유럽 자동차 부품업계 \"완성차 80%·부품 70% 유럽산 의무화\"…IAA 입법 압박 - 글로벌이코노믹\n[현대차]\n• ‘머큐리 콘셉트’ 세계 최초 공개 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group\n[기아]\n• 차가 나를 찾아온다, 기아 PV5가 바꾸는 새로운 카셰어링 경험 | 저널 | 현대자동차그룹 - Hyundai Motor Group",
+ "market": "• 환율: 1,333.9원\n• VOO: $669.79 (약 893,433원)\n• QQQ: $650.99 (약 868,356원)\n• TQQQ: $48.85 (약 65,161원)\n• SOXL: $36.57 (약 48,781원)\n• SCHD: $35.67 (약 47,580원)",
+ "hotdeals": "• [롯데온] 난각번호1번 HACCP 무항생제 당일산란 유정란 20구 (8,990원/무료)\n• [무신사] 이니스프리 올리브 비타민 E 리얼 스킨 170mL + 리얼 로션 170ml (11,080원/무료)\n• [카카오선물하기]대구축산농협 1++등심 600g (49,400/무료배송)",
+ "trends": "1. 닥터 둠\n2. 샌안토니오 대 la 레이커스\n3. tear gas",
+ "summary": "[자동차 부품]\n• 美, 중국차 이어 부품까지 막는다···현대차에 기회될까 - 서울파이낸스\n[현대차]\n• “현대차 70만원 때 더 팔걸”…김구라도 아쉬워한 주가, 지금은 - 이데일리\n[기아]\n• 기아가 폴란드서 출시한 도심형 전기차 EV2, 영하 기온서 달린 실제 성적표 - 글로벌이코노믹",
  "news": {
   "남양넥스모": [],
   "자동차 부품": [
    {
-    "title": "유럽 자동차 부품업계 \"완성차 80%·부품 70% 유럽산 의무화\"…IAA 입법 압박",
-    "source": "글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0NWc2xLcXJtQWpQUDI5Y1pTVUNkeFRUazhmd1dTY2FuejRxYWJpMUREU1RsWFdmc1BSSWJVLThjcm9FZ0JGbW1BdEdhMFk3MEVEQWtxNEZjMTVkNTF1dl82QTNIaHIyMHpXYmZZSlZkZTFxeTFRUFVmcmdvenVHaklUcTFob1U?oc=5"
+    "title": "美, 중국차 이어 부품까지 막는다···현대차에 기회될까",
+    "source": "서울파이낸스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5adDUwUi03dkRfeXN0RGtmMnBZQm1UMUpKMW1qT0x5ZGd2dXNUWGZPNS1ZN2NEWERaeExFZnFHNUNPYWF3LTNqMVZNYnlUTHFRd19iQm40bE1oTXc5d1pTeXFEc0hvSXhqX2c?oc=5"
    },
    {
-    "title": "日 자동차 부품 세계 점유율 19%로 추락...중국·한국에 밀렸다",
-    "source": "뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FUDRXdzQ3b1pwTnpEUTg4emR4UVJJNDFSR0paRlotLTJQdVpvQ01pcXZ0aGVGNG5SSzNwa01wS1I5eGVwbmpxdzA3VHkxVXFHZlU4YTRzNkxuLTdG?oc=5"
+    "title": "美 '중국 車부품 금지법' 내달 표결…현대차엔 기회와 부담",
+    "source": "자본시장뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEb2hjWFZhYjhZcGN2X1hsZWZwNmFHT0EzR1o3M2tvZXJEcXlUdGNlSkpCbmd1Y1FFWmZaVXR3YTl2RnRoXzBFdXFPM1JJY1VQbTZHTWxIWk5aX1g0VnlLZXRxamRGTzQ?oc=5"
    },
    {
-    "title": "美 의회, 중국 자동차 부품 규제 법안 연내 처리 추진",
-    "source": "아이뉴스24",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEQmNfeXJGdk5TQllrbjNQVEdEeVZhM0FVU192WUNyTWF3aTBMd2w5ZXpkZmJvX0RPS3diUE9KZ1ZNUVFjbF9rQ2ttRQ?oc=5"
-   },
-   {
-    "title": "‘1명 사망’ 인천 자동차 부품공장 화재…오늘 합동감식",
-    "source": "KBS 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyM3lqWnMwWE9DWmVRMGZvRks2REs4T2o2OUFUaWNOcmQxX1h1UVR3aWozTTVPVnRXbkNMakNHZ2Njb3NMajBoc05zLWFNOUpGZzVlWnJlOEd0aUU?oc=5"
-   },
-   {
-    "title": "[SF 이슈] '마력(馬力)에서 화력(火力)으로'…日 자동차 부품업계, 방산 전환 가속화",
+    "title": "미 관세 직격탄 맞은 캐나다 자동차 부품업계, 방산으로 눈 돌린다",
     "source": "시큐리티팩트",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DN0xHUEttdzJ2eDI2U2Z1VGh2ZWJLald4UEJwdlU2MEVTMFhUWGp1dTZraXJzTGlCeXdnN0RIeWlMdlplQmRXdnBzTzUzT29DTGQzbDVhR0thaVB0R1VuYQ?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9remFSckdFZndQV0k3UWJzVDBMbkNZU0NKZG1YVWFQMUVub0xZOVM5TnVKVHBOTzA2TkltQW93RTJKaUx1Q244RTVrN2ZIVUxGRF9pZUN6WmdYT3hobkg2eA?oc=5"
    },
    {
-    "title": "美의회, '中 자동차 규제법' 내달 처리 추진…미중 긴장 커지나",
-    "source": "연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12aWppUUNuQl93aXR1bXRKZzgxdGh6bnZuamVtNC10T2R0c0x3b281MHBUc0pLSnVoNXZKVFBKNi1zUkk2VFJIRVo1dEtBc2hnVmVOdUNSWWNVejVXWS1CetIBYEFVX3lxTE12aWppUUNuQl93aXR1bXRKZzgxdGh6bnZuamVtNC10T2R0c0x3b281MHBUc0pLSnVoNXZKVFBKNi1zUkk2VFJIRVo1dEtBc2hnVmVOdUNSWWNVejVXWS1Ceg?oc=5"
+    "title": "노동자 74명 임금 11억 체불…자동차 부품 제조업체 대표 구속",
+    "source": "안전저널",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DQXY3ekdLRjVVTWNNdmFXZkEzODBTMk9kazVucEZBb3NJZDdJaFlTLWNfRlRIUkQ0QXBtNGpzLWh0MDk1WmswaDFMUGtlVTg1UGsxMmN3cjA4cHBPRUVxWEc5V2hZYnc?oc=5"
+   },
+   {
+    "title": "“자동차 부품 하면 일본산” 이제는 옛말",
+    "source": "서울경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00ZEZXZWpoOHNiSTl0ejNsc3Y3c0U1TXJFYTNEeG9aOXVLTUFGa3VLRGkxUXBWR011cnBSU3pLWVJONndVZVF2ZDlZeWRsZ1haTWfSAVNBVV95cUxNc1NERDBud056NEdxeHh1NWhNWWtfWnpkSW9nWnFmX2luT2tpNGR1dGpVWFg3R1I3TVVRS2N3bEV6Q3phVjZ4UjZxOTdMX3VISW1jRQ?oc=5"
+   },
+   {
+    "title": "'50대 女 직원 추정 사망' 인천 자동차 부품 공장 화재 합동감식",
+    "source": "뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PUUFZaHRHM29YQklxQ1JLWnZrTlBMc1N4OWE5enBkYnlQNUliXy1aT0JDTGpNSmhNNWhYeWowLTRJN2dMVk80Y1VnRzV5T2Y3ZUd6eA?oc=5"
    }
   ],
   "현대차": [
    {
-    "title": "‘머큐리 콘셉트’ 세계 최초 공개 | 뉴스 | 현대자동차그룹",
-    "source": "Hyundai Motor Group",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcGpFV0g0Wi1RbGM0TFJsLXJjVnE0eDNuODczbHBIM0QtZXBTeW1KZHQxY0s1dS1scWY2R2l3WVgzUXF3OUR4OFRfZXJiSDVYX3NNRm9ZdTdKVno1V3Y4WkJnVWlfSkRnSnptS3VxZmZ1TWdMZkl5ekZPRm9QdEpzNFdIdTNEOGdPNDZseGxrcHlrd1ZCX1ppdkdB?oc=5"
+    "title": "“현대차 70만원 때 더 팔걸”…김구라도 아쉬워한 주가, 지금은",
+    "source": "이데일리",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTGNCM09oZFdHTW1kU1ZONldVdXNnTmx0Rlg4LXQ4eGQ4Y254OFBNRVlwWGswNG9QU1BQbjFESTBRbjlEdnRKcjI3RDZhTlI4MWt6Y3Y5aGhZNkxQLVFFMlZUR2RxQkpEQTZTUEJXQzZPS0xzMEJuRm5BeGdFUW1lSQ?oc=5"
    },
    {
-    "title": "현대차, 중국서 소형 전기 SUV 공개…2030년까지 24개 차종 투입",
-    "source": "연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14VDZKNkdiY1N1UVFPbFRFZF9TbXJ5VWRLS2hTVnVsV0tEU2hiOUpGakxLcEdfbXkxTmlPSXI2UzVQTlZTZWttZ3g1THQ1YTdxUHpPbzNVaXNyX3RGekdoZ9IBYEFVX3lxTE14VDZKNkdiY1N1UVFPbFRFZF9TbXJ5VWRLS2hTVnVsV0tEU2hiOUpGakxLcEdfbXkxTmlPSXI2UzVQTlZTZWttZ3g1THQ1YTdxUHpPbzNVaXNyX3RGekdoZw?oc=5"
-   },
-   {
-    "title": "현대차, 소형 SUV ‘아이오닉M’ 콘셉트 최초 공개... 내년 중국 출시",
-    "source": "조선일보",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS0VySnNySlNDUkhWTjgwT3hPQTIyblQ3bWJNcDZzdGNjcVNrNGVQcHdhOHZEUEJVT0FCaUJ2bk1IZnNhN240ZGVjeG5PNUdhaGlUbEhFdHE3VjhSbVlGM0NzOGcxT0VuQzVEaTZqUG4xa2dLODNWMDNYaGlwOE5GeUtQeUdlRUhiVFdsOXFpMA?oc=5"
-   },
-   {
-    "title": "[인사]현대자동차그룹 - 머니투데이",
-    "source": "머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04TmRLRVp4YzQ0TzU3amZzdENCLXlTQl9CRzJreDQ0QXBURmZycVMteGM1QV8tbnMtbnBYS2NENUlySGRTeXoxejNRaXhMV1JrRmhpcTVHb2F1WEJkV0VoZktQSUh1QXpsdldV0gFwQVVfeXFMUEJSMTBON3pNdDNvNzJ3OWw0bHhRSTVyNGFmc2ZYalVUU1p1cW9PNlFDVTg1OTcwUkk2WkFXQjZPSG5pazI4SkJsTk11R25YZ2lZTWpsNElEVmR0bThqeVZwRkZLZDJzamtwZkVCVE1RaA?oc=5"
-   },
-   {
-    "title": "LGU+, 현대차·기아 배송로봇에 5G 단독모드 실증",
-    "source": "AI타임스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43a2VpNzlSYnNaUVNuVTNkNWtxenNYTXlLSGE3QndwMVM5MzVhM21Pd1hKRE9NZHZsQ1NCQ282SEQzYzJVT1RQWC11c3ZPUVJLbVRBcTFOS1Q0NFdoN3dLUGh4b2R3QzF2ZUE?oc=5"
-   },
-   {
-    "title": "\"24종 쏟아붓는다\"…현대차, 중국 시장 뒤집을 콘셉트카 공개",
+    "title": "\"현대차 70만원일 때 더 팔걸\"…김구라도 '한숨' 쉰 이유",
     "source": "한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4T1UtdjE2anlCbWxjMElrdWhDX0xhTnJkNllTd0lBb3d6dld0TlhLLWIxcGJUS3FFem05QVFwMGoxcDdTYVk5S0RZbjN3Sy1PellEc0xWSXVHUQ?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uU09mNC1yYkxYdlJ2LVl1eWJPbUtHTGdqYVB3Tk1YWUFsQzlQa3hiTXYxd1huNjdfYWJzdTBqc0hQX0J0UlljY05hUXNNNDBCY3dzbXZEM2oxQQ?oc=5"
+   },
+   {
+    "title": "중국 권토중래 외친 현대차 ‘아이오닉V’, 870대 판매…후속은 전기 SUV",
+    "source": "한겨레",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uRFh6ajdlZmI5MkFOeDJ1a2tCZ25TVFhIWjBpVk1tNWFyRnRuTm1lTGswMjhlbV93emx5Tk5hemZVSF9wRjJfal9xbzZ0NlFSUEhRb1RiYXFyWWwzNHdkaWp3?oc=5"
+   },
+   {
+    "title": "현대차 '아이오닉 M' 첫선…2030년까지 中 신차 24종",
+    "source": "자본시장뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3cWJ3SG16ZHJ2LTdSaUhjdDJFaVdaWUZFVDVSZ0lCbUZEd1ZSYmZ1V2ZoNDBpcXFJTFRHUVZIQTMyM3pDWHRHV2ZzVHRhYUFjMnlmbUZPWlN2bW11ekFncm45enNBWG8?oc=5"
+   },
+   {
+    "title": "장재훈 현대차 부회장 \"중국과 원가 30% 차이… 3년 내 최대한 좁힐 것\"",
+    "source": "조선일보",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONFhqSFR4eWJTSGhUMWg1SnNEZkVmc3E1QW1OZUJZWnlpRXZhY3M5Vldpc2ZYUXdBSnRSM0FqR3JiT0huSGwtVGp3cElxSzJmeC1INmREM01MNVpKUmZXN0hYdktZR2VUSVFYWExBVHJYXzJ5Qy10NGhNOWVVcWVPNnpnUjJDRUNhSk84MXB1OA?oc=5"
+   },
+   {
+    "title": "현대차그룹, 슬로바키아에 1조 4526억 투자 논의…EU 원산지 규제 공동 대응",
+    "source": "글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWXFhRmp3YldOQ3R0OTY5cUprQUpPbnVKS0ljcmE3TDJuZF9JS2dGOUtSQVhPVkZjdV9PMU96QTJZS2lDRUpQTmdHZ0c5S3kwS1pHS2w0cldpOW0wSXJaYXkyZzhRU3lNN2JnZ281d1hkTmFUME54bnd0bWdBUF9YcmNuUF9ISm9V?oc=5"
    }
   ],
   "기아": [
    {
-    "title": "차가 나를 찾아온다, 기아 PV5가 바꾸는 새로운 카셰어링 경험 | 저널 | 현대자동차그룹",
-    "source": "Hyundai Motor Group",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWHJxUFItYlV0MDd2bHNjYTVIWmxZclhic2w5SVg3c2ZqNVNVclpZd3BVN201Wjg0NTVNRnZYUURibnpmOVVid2FKNDVYQ2ZjeTdsWWJLTTZQcjR5WGhEU2VCNmNWRmxuZmlqaUYwUU96akVvUTh1S2ZYU2xHUFZQcXpVTVJ0M1NQUHI0?oc=5"
-   },
-   {
-    "title": "[부고] 김익환(기아자동차 전 부회장)씨 모친상",
+    "title": "기아가 폴란드서 출시한 도심형 전기차 EV2, 영하 기온서 달린 실제 성적표",
     "source": "글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNzlCajFNNHVvRmdSMzN3REJaOWN0M0c0MnRLUk1kZHdsSWsyQ0h2U0cwMTB3dkFVSDliT0FQNmxuUk1aTkFfcGlnRk5IZHVwV3VvaEVKb2VETnBVejZ4ckM4OGFfQy1fcXJQcmNval9ENkk0ZXVOOHpCZ2pJNkVUY3BHQTdidw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMng1RlI3cEItY1RCQnhMOExwSnN1V1J1cWZJcUVncEtLWlpRX2ZHOE9QS3QydTNlSHFjUy1hNDRCNHhyQnk1X1lOd2cwX2w5RjF3N0VtVVowenBTdjBGNFhCa3h6NDc1Vm5fZlhjSzJ4bUVGdEFpZnloT1I5dU5RQ1Uzdjc1WmUw?oc=5"
    },
    {
-    "title": "[부고] 김익환(전 기아자동차 부회장)씨 모친상",
-    "source": "연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkeXlBMldwWjdaOGNCNXdfWG5aclFRbWpRWktvZlVYTlRQZjg4Vy1kU25kTV9SN0lpSUZ0X1dITVBTUTRKNmZCT0tlZndOeXRBSWhqZHNwckVVTkXSAWBBVV95cUxPWkU4OW5IMFFKUjVzNVJDMGJ4Z1BQU1lQbS1SSVBQNEZlVU9xSklUSmNyeGIyWnRxMWZfeE1rRVNZa1dyRFBRazZXOE9nRkhEMkoycUpLUllxMldDQndRbTE?oc=5"
+    "title": "기아 3.1조 투입 印 공장 증설 주정부 공식 승인",
+    "source": "한국신용신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hM0E5OUhNRVFkVWFFaU5WbUZyUUpKWjM5OVZsOXhSc19YX3NySXhXM1d0ZHR4cVdlQ1FiNlpPT1dtdHNkVUFHNEZNMW9WVnpwWWFNQjR3aDFPUkhBY01Ma0hlZWZwM0JzTlNj?oc=5"
    },
    {
-    "title": "[와이드인터뷰] 기아자동차 목포지점 나혹진 선임 부장, “차를 팔기보다 마음을 얻다. 36년 한결같은 사람의 길”",
-    "source": "호남타임즈",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GeUh1clhEUzlwNXNucjhpQ0VKVUM5TFhrVEl5dlZMT2QzZy1zaHpWbFBRWGoxbTZzOFM1b1JPaTQ4Mk5nakxVY1owMGpGdXZyM05XWHI5OTAwX0tnb01MWWQ4cl9KcjhjYmJoSA?oc=5"
+    "title": "테슬라·기아 빼고 톱10 다 중국차…글로벌 전기차 판도 뒤집혔다",
+    "source": "뉴스로드",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82dUJyaVlDdTB6ZC1YaURqNEF0NWN6YUJIakZvVHl6bmJLd0ctdHV4NU9lTFhsRmc5SF9ndVZ4Q19pTE9VQjFYVUozT2dZVjkxU1lxSXV1cU9wMVNDSGVGY21pRnRuNVBDamhkM9IBb0FVX3lxTFBobk1PdEROeWVBVEgzVnlEVTc5S3M5YnljWnd6VVV3eEZpYk80X3lfTi05QVU3OEQ4b0xUZ1duYkNUOXAwbndRUjF6WURXemxBSHhmX2lGUFhCZC1tU29Ceng1aWRUR1JJaG03UFZnaw?oc=5"
    },
    {
-    "title": "[부고]김익환씨(전 기아자동차 부회장) 모친상 - 머니투데이",
-    "source": "머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyZFM0aWJuazI0ZzR5UTVSMnc0amk5YVpRZ3NsNDJfQktyNXFKWTRwcUZNZy1FZHVPenpGWV9pbVZjaUVTRW5XTzBJZ0kyUFNWenJ1Nlh3cUlmaGE0RkRyYlFNekpXdVlmc0lrcG90UUFNbG1kNVlEM9IBfkFVX3lxTE5XNllrY1hmOXlfNzN5b0lSSVhRR2UwS0Q4VzAybFp0WjMwRXBfQmVuZl92VWFqZFFXdzlSR01qc1dnU1ItWFlrZ2wxbkNtalM0Zkh2eGFXcDg4YVI1OW9DQ2pwcExJZzNaUmJ4S2JMaHZwV3Vhb2xqQWlMbnMyZw?oc=5"
+    "title": "현대자동차·기아, 3년 연속 안전관리 최우수 연구실 선정 | HMG TV | 현대자동차그룹",
+    "source": "Hyundai Motor Group",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcy1HODlyeFExNVhuYkdlV1YtTklrWFdPZVdFdXd3emh2UWYyMzUtM3RSWmJpb19FcGZWRGpvYjVpUTl2TU9rNGFPaXpaRmpvbkpyLUtaTmRxLUdaeHNXcjlHbFUwNXhtUXpQZVlRQnFtb0JXOFRuUG1qWXQtT3Z5cWNsNXRkREFrSnJjbThxVVZnYzdnUkVj?oc=5"
    },
    {
-    "title": "[부고]김익환(전 기아자동차 부회장)씨 모친상",
-    "source": "이데일리",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNazdveVo4aXlpYkZTOHpfb3NOVU93N2kxa0JIT0lvWWxmcExUQms5RW1hbVVwdGFXQUJQRDdYWFdHTHdlYUJHSWtwUEwtcW5Ra0xBVVBRWHV1U0pvMFRYRWRNVVFqbG96ekpQQVRzWTRXMDFYdXp1Mk1tbjRYSzdNOQ?oc=5"
+    "title": "[오늘의 부고 : 11월 27일] 김익환(전 기아자동차 부회장)씨 모친상 外",
+    "source": "뉴스투데이",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BQm9SQ1Ntd0c5bW1HUVh2MVFEd2dSRURxNE9zS0czMmVjZ1hDbnA1aEV4MElnREZSV1lRTldwOThvS1pjMUtfaDhYanJFWnAwQVg2aGR1bmdGeThPUWc?oc=5"
+   },
+   {
+    "title": "전국금속노동조합 기아자동차지부, 오산시각장애인연합회에 2천만원 상당 점자인쇄기 기탁",
+    "source": "뉴스파노라마",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hZ3pRblVLSkZpMmZFZENfcElpMW9pOEtCLVFaYkJoWE1JTU9HM2tGYUdLV1ZtU1pRNGpvQ3phRjZacTJGV3NYRHRHbVY3azlYMnpVVTkwNU9NMlIxcE8xdFJCNlhHT3pIZzNINExRQQ?oc=5"
    }
   ]
  }
